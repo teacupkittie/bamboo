@@ -1,0 +1,33 @@
+{
+	"name": "methods",
+	"children": [
+		{
+			"name": "Engineered methods",
+			"description": "engineered-methods.svx",
+			"children": [
+				{
+					"name": "Engineered bamboo products",
+					"description": "engineered-products.svx"
+				},
+				{
+					"name": "Full culm bamboo construction",
+					"description": "full-culm.svx"
+				},
+				{
+					"name": "Preservation methods",
+					"description": "preservation.svx"
+				}
+			]
+		},
+		{
+			"name": "Vernacular construction",
+			"description": "vernacular-construction.svx",
+			"children": [
+				{
+					"name": "Wattle and daub",
+					"description": "wattle-and-daub.svx"
+				}
+			]
+		}
+	]
+}

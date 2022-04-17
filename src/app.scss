@@ -1,0 +1,46 @@
+/* Write your global styles here, in SCSS syntax. Variables and mixins from the src/variables.scss file are available here without importing */
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;600;800&display=swap');
+:root {
+	/* defaults */
+	font-family: 'Barlow', Helvetica, sans-serif;
+	color: var(--text-color);
+	background-color: var(--bg-color);
+	line-height: 1.5;
+	transition: 0.5s ease;
+
+	/* greys palette */
+	--lightest: #f6f6f6;
+	--lighter: #dadada;
+	--light: #b4b4b4;
+	--mid: #959595;
+	--dark: #737373;
+	--darker: #454545;
+	--darkest: #161616;
+
+	/* default colors */
+	--text-color: var(--darker);
+	--bg-color: var(--lightest);
+	--primary-light: #e0ecbe;
+	--primary: #c0d587;
+	--primary-dark: #aac363;
+	--primary-highlight: rgba(224, 236, 190, 0.3);
+}
+
+h1 {
+	color: var(--primary);
+	font-size: 3rem;
+}
+h2 {
+	font-weight: 600;
+	color: var(--mid);
+}
+
+.label {
+	color: var(--light);
+	letter-spacing: 6px;
+	font-size: 0.9rem;
+}
+
+a {
+	color: var(--primary-dark);
+}
