@@ -1,4 +1,4 @@
-# Discussion
+# Vernacular joints
 
 ## Te umero et
 
@@ -20,11 +20,3 @@ Tiliae **hortos** arcadiae ignibus est Echione, quisquis iussis genitor et nomen
 - Utque maneat haec quatenus intervenit Tmolus vatibus
 - Lateri morbi moneri huius
 - Succendit terris
-
-## Resources
-
-Aside from the countless well-researched and informative articles cited throughout the visualization, several resources also played a key role in bringing this project to life. These include but are not limited to:
-
-- Amelia Wattenberger's [Intro to D3](https://wattenberger.com/blog/d3), which not only provided a delightful overview of D3.js, but also sparked the idea to use a circle pack for visualizing a categorical overview of bamboo construction
-
-Finally, a big thanks to Dr. Bhavna Sharma, who leads the Innovative Materials research group and inspired me to pursue this project.

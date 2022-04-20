@@ -7,14 +7,14 @@
 	<div class="subtitle">A visual review of bamboo construction for residential use</div>
 	<div class="label byline">BY VIVIAN LI</div>
 	<p>
-		Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
-		Nam fermentum nulla vitae varius lacinia. Vestibulum sagittis, neque a ullamcorper gravida,
-		ipsum urna gravida erat, non facilisis est tortor at lacus. Suspendisse sit amet dapibus turpis.
-		Suspendisse aliquam faucibus dictum. Proin gravida aliquet diam et porta. Morbi efficitur
-		imperdiet tellus, euismod viverra nisl bibendum vitae. Nulla condimentum nisl mi, nec
-		pellentesque mi fringilla dignissim. Vivamus elit felis, sagittis eget tempus consequat, congue
-		sit amet quam. Morbi convallis a tortor convallis tempus. Morbi vitae tortor lorem. Praesent et
-		nibh porttitor, tincidunt est a, mattis ligula.
+		The call for sustainable and affordable housing is clear—people across the globe are witnessing
+		a shortage of homes. Moreover, the dialogue around construction has shifted to consider
+		sustainable design. Can we diminish our ecological footprint while addressing a need for
+		housing? When we build with concrete, wood, and other conventional materials, we contribute to a
+		myriad of harmful environmental impacts: carbon emissions, disproportionate water usage, urban
+		heat islands, deforestation, and more. Bamboo presents itself as a unique alternative with its
+		rapid growth cycles, carbon-sequestering abilities, and mechanical strength. How is bamboo
+		currently being used in the built environment, and how can it flourish in the future?
 	</p>
 </div>
 
@@ -31,6 +31,6 @@
 	}
 	.content {
 		text-align: center;
-		padding: 0 5rem;
+		padding: 2rem 5rem;
 	}
 </style>

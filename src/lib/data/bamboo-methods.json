@@ -1,31 +1,136 @@
 {
-	"name": "methods",
+	"name": "Overview",
+	"src": "overview.svx",
 	"children": [
 		{
 			"name": "Engineered methods",
-			"description": "engineered-methods.svx",
+			"src": "engineered-methods.svx",
 			"children": [
 				{
 					"name": "Engineered bamboo products",
-					"description": "engineered-products.svx"
+					"src": "engineered-products.svx",
+					"children": [
+						{
+							"name": "Laminated bamboo",
+							"src": "laminated-bamboo.svx"
+						},
+						{
+							"name": "Bamboo scrimber",
+							"src": "bamboo-scrimber.svx"
+						}
+					]
+				},
+				{
+					"name": "Laminated bamboo frame",
+					"src": "laminated-bamboo-frame.svx"
 				},
 				{
 					"name": "Full culm bamboo construction",
-					"description": "full-culm.svx"
+					"src": "full-culm.svx",
+					"children": [
+						{
+							"name": "Cement bamboo frame",
+							"src": "cement-bamboo-frame.svx"
+						},
+						{
+							"name": "Full culm bamboo frame",
+							"src": "full-culm-bamboo-frame.svx"
+						},
+						{
+							"name": "Joints",
+							"src": "joints.svx",
+							"children": [
+								{
+									"name": "Vernacular joints",
+									"src": "vernacular-joints.svx"
+								},
+								{
+									"name": "Engineered joints",
+									"src": "engineered-joints.svx"
+								},
+								{
+									"name": "Joint classification",
+									"src": "joint-classification.svx",
+									"children": [
+										{
+											"name": "Janssen's classification",
+											"src": "janssen.svx"
+										},
+										{
+											"name": "Widyowijatnoko’s classification",
+											"src": "widyowijatnoko.svx"
+										}
+									]
+								}
+							]
+						}
+					]
 				},
 				{
 					"name": "Preservation methods",
-					"description": "preservation.svx"
+					"src": "preservation.svx",
+					"children": [
+						{
+							"name": "Protection methods",
+							"src": "protection.svx"
+						},
+						{
+							"name": "Preservative treatment methods",
+							"src": "preservative-treatment.svx"
+						}
+					]
 				}
 			]
 		},
 		{
 			"name": "Vernacular construction",
-			"description": "vernacular-construction.svx",
+			"src": "vernacular-construction.svx",
 			"children": [
 				{
 					"name": "Wattle and daub",
-					"description": "wattle-and-daub.svx"
+					"src": "wattle-and-daub.svx",
+					"children": [
+						{
+							"name": "Bahareque",
+							"src": "bahareque.svx"
+						}
+					]
+				},
+				{
+					"name": "Naga-type house",
+					"src": "naga.svx"
+				},
+				{
+					"name": "Erka house",
+					"src": "erka.svx"
+				},
+				{
+					"name": "Assam-type house",
+					"src": "assam.svx"
+				},
+				{
+					"name": "Mru house",
+					"src": "mru.svx"
+				},
+				{
+					"name": "Bahay Kubo house",
+					"src": "bahay-kubo.svx"
+				},
+				{
+					"name": "Javanese-style houses",
+					"src": "java.svx"
+				},
+				{
+					"name": "Orang Asli house",
+					"src": "orang-asli.svx"
+				},
+				{
+					"name": "Igbo-style house",
+					"src": "igbo.svx"
+				},
+				{
+					"name": "Senegalese bamboo roof technique",
+					"src": "senegalese-roof.svx"
 				}
 			]
 		}

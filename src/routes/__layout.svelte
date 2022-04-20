@@ -1,6 +1,6 @@
 <script>
 	import '../app.scss';
-	import NavButton from '$lib/NavButton.svelte';
+	import NavButton from '$lib/components/NavButton.svelte';
 	import { page } from '$app/stores';
 </script>
 
@@ -30,7 +30,7 @@
 		margin: 1rem;
 	}
 	.container {
-		padding: 5rem 10rem;
+		padding: 3rem 10rem;
 	}
 	.footer {
 		position: fixed;
