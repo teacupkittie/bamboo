@@ -20,15 +20,19 @@
 	/* default colors */
 	--text-color: var(--darker);
 	--bg-color: var(--lightest);
-	--primary-light: #e0ecbe;
+	--primary-light: #ccdd9f;
 	--primary: #c0d587;
-	--primary-dark: #aac363;
+	--primary-dark: #7c9537;
 	--primary-highlight: rgba(224, 236, 190, 0.5);
+
+	--active: #ba9d85;
+	--active-highlight: rgba(215, 203, 195, 0.3);
 }
 
 h1 {
 	color: var(--primary);
 	font-size: 3rem;
+	line-height: 3.5rem;
 }
 h2 {
 	font-weight: 600;

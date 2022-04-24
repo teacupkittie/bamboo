@@ -1,64 +1,64 @@
 {
 	"name": "Overview",
-	"src": "overview.svx",
+	"src": "overview",
 	"children": [
 		{
 			"name": "Engineered methods",
-			"src": "engineered-methods.svx",
+			"src": "engineered-methods",
 			"children": [
 				{
 					"name": "Engineered bamboo products",
-					"src": "engineered-products.svx",
+					"src": "engineered-products",
 					"children": [
 						{
 							"name": "Laminated bamboo",
-							"src": "laminated-bamboo.svx"
+							"src": "laminated-bamboo"
 						},
 						{
 							"name": "Bamboo scrimber",
-							"src": "bamboo-scrimber.svx"
+							"src": "bamboo-scrimber"
 						}
 					]
 				},
 				{
 					"name": "Laminated bamboo frame",
-					"src": "laminated-bamboo-frame.svx"
+					"src": "laminated-bamboo-frame"
 				},
 				{
 					"name": "Full culm bamboo construction",
-					"src": "full-culm.svx",
+					"src": "full-culm",
 					"children": [
 						{
 							"name": "Cement bamboo frame",
-							"src": "cement-bamboo-frame.svx"
+							"src": "cement-bamboo-frame"
 						},
 						{
 							"name": "Full culm bamboo frame",
-							"src": "full-culm-bamboo-frame.svx"
+							"src": "full-culm-bamboo-frame"
 						},
 						{
 							"name": "Joints",
-							"src": "joints.svx",
+							"src": "joints",
 							"children": [
 								{
 									"name": "Vernacular joints",
-									"src": "vernacular-joints.svx"
+									"src": "vernacular-joints"
 								},
 								{
 									"name": "Engineered joints",
-									"src": "engineered-joints.svx"
+									"src": "engineered-joints"
 								},
 								{
 									"name": "Joint classification",
-									"src": "joint-classification.svx",
+									"src": "joint-classification",
 									"children": [
 										{
 											"name": "Janssen's classification",
-											"src": "janssen.svx"
+											"src": "janssen"
 										},
 										{
 											"name": "Widyowijatnoko’s classification",
-											"src": "widyowijatnoko.svx"
+											"src": "widyowijatnoko"
 										}
 									]
 								}
@@ -68,15 +68,15 @@
 				},
 				{
 					"name": "Preservation methods",
-					"src": "preservation.svx",
+					"src": "preservation",
 					"children": [
 						{
 							"name": "Protection methods",
-							"src": "protection.svx"
+							"src": "protection"
 						},
 						{
 							"name": "Preservative treatment methods",
-							"src": "preservative-treatment.svx"
+							"src": "preservative-treatment"
 						}
 					]
 				}
@@ -84,53 +84,53 @@
 		},
 		{
 			"name": "Vernacular construction",
-			"src": "vernacular-construction.svx",
+			"src": "vernacular-construction",
 			"children": [
 				{
 					"name": "Wattle and daub",
-					"src": "wattle-and-daub.svx",
+					"src": "wattle-and-daub",
 					"children": [
 						{
 							"name": "Bahareque",
-							"src": "bahareque.svx"
+							"src": "bahareque"
 						}
 					]
 				},
 				{
 					"name": "Naga-type house",
-					"src": "naga.svx"
+					"src": "naga"
 				},
 				{
 					"name": "Erka house",
-					"src": "erka.svx"
+					"src": "erka"
 				},
 				{
 					"name": "Assam-type house",
-					"src": "assam.svx"
+					"src": "assam"
 				},
 				{
 					"name": "Mru house",
-					"src": "mru.svx"
+					"src": "mru"
 				},
 				{
 					"name": "Bahay Kubo house",
-					"src": "bahay-kubo.svx"
+					"src": "bahay-kubo"
 				},
 				{
 					"name": "Javanese-style houses",
-					"src": "java.svx"
+					"src": "java"
 				},
 				{
 					"name": "Orang Asli house",
-					"src": "orang-asli.svx"
+					"src": "orang-asli"
 				},
 				{
 					"name": "Igbo-style house",
-					"src": "igbo.svx"
+					"src": "igbo"
 				},
 				{
 					"name": "Senegalese bamboo roof technique",
-					"src": "senegalese-roof.svx"
+					"src": "senegalese-roof"
 				}
 			]
 		}
