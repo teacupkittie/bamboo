@@ -1,4 +1,6 @@
-# Orang-Asli house
+---
+name: Orang-Asli house
+---
 
 ## Te umero et
 

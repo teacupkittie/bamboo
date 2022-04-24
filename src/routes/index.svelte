@@ -22,9 +22,11 @@
 	.title {
 		font-size: 5rem;
 		margin-bottom: 0;
+		line-height: 6rem;
 	}
 	.subtitle {
 		font-size: 1.5rem;
+		padding-top: 1rem;
 	}
 	.byline {
 		padding: 1rem 0;

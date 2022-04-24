@@ -1,4 +1,6 @@
-# Naga-type house
+---
+name: Naga-type house
+---
 
 ## Te umero et
 

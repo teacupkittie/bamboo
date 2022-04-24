@@ -1,4 +1,6 @@
-# Vernacular joints
+---
+name: Vernacular joints
+---
 
 ## Te umero et
 

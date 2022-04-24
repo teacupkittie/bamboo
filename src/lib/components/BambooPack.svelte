@@ -33,9 +33,8 @@
 
 	function loadDescription(f) {
 		for (const d in descriptions) {
-			console.log(descriptions[d].path);
 			if (descriptions[d].path === '/../lib/data/' + f) {
-				return descriptions[d].html;
+				return { name: descriptions[d].meta.name, content: descriptions[d].html };
 			}
 		}
 		console.log('Description not found.');
@@ -47,7 +46,8 @@
 
 <div class="viz-container">
 	<div class="description">
-		{@html description}
+		<h1>{description.name}</h1>
+		<div class="content">{@html description.content}</div>
 	</div>
 
 	<svg {width} {height}>
@@ -113,8 +113,32 @@
 			fill: var(--active);
 		}
 	}
-	.description {
+	.content {
+		background-color: var(--primary-highlighter);
 		overflow-y: scroll;
-		padding-right: 2rem;
+		// height: 50vh;
+		height: auto;
+		margin-right: 1rem;
+		padding: 0 2rem 1rem 2rem;
+		border-radius: 5px;
+
+		&::-webkit-scrollbar {
+			width: 7px;
+			background-color: none;
+		}
+
+		&::-webkit-scrollbar-thumb {
+			border-radius: 10px;
+			background-color: var(--primary-subtle);
+			height: 50%;
+		}
+	}
+	.description {
+		display: grid;
+		grid-template-rows: min-content 1fr;
+		height: 75vh;
+	}
+	svg {
+		justify-self: end;
 	}
 </style>

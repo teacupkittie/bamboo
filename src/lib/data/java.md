@@ -1,4 +1,6 @@
-# Javanese-style houses
+---
+name: Javanese-style houses
+---
 
 ## Te umero et
 

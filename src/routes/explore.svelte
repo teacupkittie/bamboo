@@ -28,7 +28,6 @@
 
 <style>
 	.chart-wrapper {
-		overflow: hidden;
 		height: calc(100vh - 10rem);
 	}
 </style>

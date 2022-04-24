@@ -1,4 +1,6 @@
-# Wattle and daub
+---
+name: Wattle and daub
+---
 
 ## Te umero et
 

@@ -1,4 +1,6 @@
-# Laminated bamboo
+---
+name: Laminated bamboo
+---
 
 ## Te umero et
 

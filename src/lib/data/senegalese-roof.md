@@ -1,4 +1,6 @@
-# Senegalese bamboo roof technique
+---
+name: Senegalese bamboo roof technique
+---
 
 ## Te umero et
 

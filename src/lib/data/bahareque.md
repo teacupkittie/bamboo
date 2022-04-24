@@ -1,4 +1,6 @@
-# Bahareque
+---
+name: Bahareque
+---
 
 ## Te umero et
 

@@ -1,4 +1,6 @@
-# Bahay Kubo house
+---
+name: Bahay Kubo house
+---
 
 ## Te umero et
 

@@ -1,4 +1,6 @@
-# Bamboo scrimber
+---
+name: Bamboo scrimber
+---
 
 ## Te umero et
 

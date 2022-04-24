@@ -1,4 +1,6 @@
-# Joint classification
+---
+name: Joint classification
+---
 
 ## Te umero et
 

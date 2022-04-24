@@ -1,4 +1,6 @@
-# Janssen's classification
+---
+name: Janssen's joint classification
+---
 
 ## Te umero et
 

@@ -1,4 +1,6 @@
-# Assam-type house
+---
+name: Assam-type house
+---
 
 ## Te umero et
 

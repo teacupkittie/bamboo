@@ -1,4 +1,6 @@
-# Protection methods
+---
+name: Protection methods
+---
 
 ## Te umero et
 

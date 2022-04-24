@@ -1,4 +1,6 @@
-# Engineered products
+---
+name: Engineered products
+---
 
 ## Te umero et
 

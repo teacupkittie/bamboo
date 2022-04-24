@@ -1,4 +1,6 @@
-# Igbo-style house
+---
+name: Igbo-style house
+---
 
 ## Te umero et
 

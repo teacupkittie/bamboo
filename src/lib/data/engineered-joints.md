@@ -1,4 +1,6 @@
-# Engineered joints
+---
+name: Engineered joints
+---
 
 ## Te umero et
 

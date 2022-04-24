@@ -1,4 +1,6 @@
-# Laminated bamboo frame
+---
+name: Laminated bamboo frame
+---
 
 ## Te umero et
 

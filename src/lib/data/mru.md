@@ -1,4 +1,6 @@
-# Mru house
+---
+name: Mru house
+---
 
 ## Te umero et
 

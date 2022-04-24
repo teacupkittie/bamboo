@@ -1,4 +1,6 @@
-# Joints
+---
+name: Joints
+---
 
 ## Te umero et
 
