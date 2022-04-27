@@ -22,6 +22,7 @@
 	--bg-color: var(--lightest);
 	--primary-light: #ccdd9f;
 	--primary: #c0d587;
+	--primary-darkish: #a9c168;
 	--primary-dark: #7c9537;
 	--primary-highlight: rgba(224, 236, 190, 0.5);
 	--primary-highlighter: rgba(224, 236, 190, 0.25);
@@ -48,5 +49,20 @@ h2 {
 }
 
 a {
-	color: var(--primary-dark);
+	color: var(--primary-darkish);
+}
+
+img {
+	object-fit: contain;
+	width: 100%;
+}
+
+/* used exclusively for image caption styling */
+h4 {
+	margin: 1rem 0;
+	font-size: 0.9rem;
+	font-weight: 400;
+	font-style: italic;
+	color: var(--light);
+	text-align: center;
 }

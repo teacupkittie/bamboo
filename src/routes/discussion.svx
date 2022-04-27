@@ -1,18 +1,18 @@
 # Discussion
 
-## Te umero et
+## Observations
 
 Lorem markdownum traxit, fistula est at caelestes alium, demisso vectus in undique foret, in qui iam. Habenti saepe.
 
 Aper deae verum insilit Orci; est sensit tu forte. Remotis iram sidereum contenta patetis. Gaudeat nymphas convicia numina: quoque conprendere exitus, clauso. Paterque mortalia umbrae mos pedes anno cum mirabile quaecumque corpus virtus norint. Erat sed fratres carinae, est vulgata pulsant poterat nutrix.
 
-## Tubae altera arbore Iuppiter miserande mirum Aethalion
+## Criticism
 
 Preces **fieri auribus** tollite praeterit iamque: [et robur](http://fraude.net/igne.html) fratribus manum laborum. Petitos pectus: non vinci silet _fata_, summa [illis](http://www.dum.net/), non Sole.
 
 Quod spinea inquit, rex clamorque ante. Fruges victus inter, esse minus Nesseo per caede ossa habitanda flammis satis. Vulneris pater herbis, confudit malis. Atlantiades nitenti vires videri citis auctor imago nimiumque montibus cantusque.
 
-## Ab properatis mortale percaluit denique atque
+## Innovation and future development
 
 Tiliae **hortos** arcadiae ignibus est Echione, quisquis iussis genitor et nomen. Legumque per Arcas magnum orat post hostiliter velata, venit unius tamen [pariter](http://nec-precanti.org/), mane canam carinae.
 
@@ -23,8 +23,8 @@ Tiliae **hortos** arcadiae ignibus est Echione, quisquis iussis genitor et nomen
 
 ## Resources
 
-Aside from the countless well-researched and informative articles cited throughout the visualization, several resources also played a key role in bringing this project to life. These include but are not limited to:
+If you are curious about how I made this visualization, check out the blog post that I wrote about my progress (coming soon)! I'll cover everything from the research and literature review to how I used SvelteKit and D3.
 
-- Amelia Wattenberger's [Intro to D3](https://wattenberger.com/blog/d3), which not only provided a delightful overview of D3.js, but also sparked the idea to use a circle pack for visualizing a categorical overview of bamboo construction
+Aside from the countless well-researched and informative articles cited throughout the visualization, Amelia Wattenberger's [Intro to D3](https://wattenberger.com/blog/d3) also played a key role in bringing this project to life. Not only did this resource provide a delightful overview of D3.js, but it also sparked the idea to use a circle pack for visualizing a categorical overview of bamboo construction
 
-Finally, a big thanks to Dr. Bhavna Sharma, who leads the Innovative Materials research group and inspired me to pursue this project.
+Finally, this project would not be possible without **Dr. Bhavna Sharma**, who leads the [Innovative Materials research group](https://sites.usc.edu/innomat/) at USC. She inspired me to pursue this project and guided me along the way. Dr. Sharma is exceptionally well-versed on all things bamboo, especially in the built environment. She has contributed to countless academic papers that serve as foundational pillars of research in the field (many of which you can find in this overview). Thank you so much!

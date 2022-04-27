@@ -2,23 +2,73 @@
 name: Janssen's joint classification
 ---
 
-## Te umero et
+## Designing and Building with Bamboo
 
-Lorem markdownum traxit, fistula est at caelestes alium, demisso vectus in undique foret, in qui iam. Habenti saepe.
+Janssen's manual on _Designing and Building with Bamboo_ makes a strong case for the importance of **well-designed joints** in bamboo construction [1]. Janssen's classification groups serve as a framework to explain how forces can be distributed in different engineered joints.
 
-Aper deae verum insilit Orci; est sensit tu forte. Remotis iram sidereum contenta patetis. Gaudeat nymphas convicia numina: quoque conprendere exitus, clauso. Paterque mortalia umbrae mos pedes anno cum mirabile quaecumque corpus virtus norint. Erat sed fratres carinae, est vulgata pulsant poterat nutrix.
+Janssen outlines the following **guiding principles** for joint classification [1]:
 
-## Tubae altera arbore Iuppiter miserande mirum Aethalion
+1. A joint between two whole bamboo culms can be made either by contact between the full cross-sections, or by collecting forces from the cross-section to a joining element.
+2. Collecting the forces may occur from the inside, from the cross-section or from the outside.
+3. The joining element can run parallel with the fibers or perpendicular to them.
 
-Preces **fieri auribus** tollite praeterit iamque: [et robur](http://fraude.net/igne.html) fratribus manum laborum. Petitos pectus: non vinci silet _fata_, summa [illis](http://www.dum.net/), non Sole.
+He then uses these guiding principles to outline **eight joint classification groups** [1]:
 
-Quod spinea inquit, rex clamorque ante. Fruges victus inter, esse minus Nesseo per caede ossa habitanda flammis satis. Vulneris pater herbis, confudit malis. Atlantiades nitenti vires videri citis auctor imago nimiumque montibus cantusque.
+- **Group 1:** full cross-section
+- **Group 2:** from inside to an element parallel
+- (**Group 3:** from inside to an element perpendicular)
+- **Group 4:** from cross-section to element parallel
+- **Group 5:** from cross-section to element perpendicular
+- **Group 6:** from outside to element parallel
+- (**Group 7:** from outside to element perpendicular)
+- **Group 8:** for split bamboo
 
-## Ab properatis mortale percaluit denique atque
+Groups 3 and 7 have theoretical significance but little practical application. Moreover, based on the specific caveats of each joint, implementations of Janssen's joint groups can often overlap.
 
-Tiliae **hortos** arcadiae ignibus est Echione, quisquis iussis genitor et nomen. Legumque per Arcas magnum orat post hostiliter velata, venit unius tamen [pariter](http://nec-precanti.org/), mane canam carinae.
+## Group 1
 
-- Sub necem morantur paulum sed longe
-- Utque maneat haec quatenus intervenit Tmolus vatibus
-- Lateri morbi moneri huius
-- Succendit terris
+Joints in Group 1 involve contact of the bamboo culm's full cross-section.
+
+![Janssen Group 1 joint](images/janssen-group-1-joint.png)
+
+#### Diagram of a group 1 joint example [1].
+
+## Group 2
+
+Joints in Group 2 collect the force from the inside of the bamboo culm and transmit it to an element parallel, such as cement mortar or a piece of timber.
+
+![Janssen Group 2 joint](images/janssen-group-2-joint.png)
+
+#### Diagram illustrating the forces in a group 2 joint [1].
+
+## Group 4
+
+Joints in Group 4 collect the force from the cross-section of the bamboo culm and transmit it to an element parallel, such as pins of steel or wood.
+
+![Janssen Group 4 joint](images/janssen-group-4-joint.png)
+
+#### Diagram of a group 4 joint example, using a disk (A), glue (B), and a pin (C) [1].
+
+## Group 5
+
+Joints in Group 5 involve pins and bolts that are inserted into the cross-section of the culm, in a perpendicular direction.
+
+![Janssen Group 5 joint](images/janssen-group-5-joint.png)
+
+#### Diagram of a group 5 joint example, where the pin is denoted in blue [1].
+
+## Group 6
+
+Joints in Group 6 have a material attached to the outside of the culm (traditionally lashings, now steel wire and clamps), which is then connected to a parallel element.
+
+![Janssen Group 6 joint](images/janssen-group-6-joint.png)
+
+#### Diagram of a modern group 6 joint example using a steel clamp [1].
+
+## Group 8
+
+Joints in Group 8 are specific to split bamboo, using materials such as glue, nails, or galvanized steel.
+
+## References
+
+**[1]** J. Janssen, "Designing and Building with Bamboo," _International Network for Bamboo and Rattan_, no. 20, pp. 90-116, 2000, Available: [https://www.inbar.int/wp-content/uploads/2020/05/1489455979.pdf](https://www.inbar.int/wp-content/uploads/2020/05/1489455979.pdf).

@@ -2,23 +2,12 @@
 name: Vernacular construction
 ---
 
-## Te umero et
+**Vernacular architecture** draws upon local practices and materials that are geographically, historically, and culturally relevant to the area.
 
-Lorem markdownum traxit, fistula est at caelestes alium, demisso vectus in undique foret, in qui iam. Habenti saepe.
+Some locations may be hotter, or wetter, or more predisposed to natural disasters. Sites with tropical climate have higher rainfall, solar radiation, temperature differences, and more [1]. As a result, the vernacular housing methods that develop over time are reflective of what is "well-suited to the culture and region in which they are situated" [2].
 
-Aper deae verum insilit Orci; est sensit tu forte. Remotis iram sidereum contenta patetis. Gaudeat nymphas convicia numina: quoque conprendere exitus, clauso. Paterque mortalia umbrae mos pedes anno cum mirabile quaecumque corpus virtus norint. Erat sed fratres carinae, est vulgata pulsant poterat nutrix.
+## References
 
-## Tubae altera arbore Iuppiter miserande mirum Aethalion
+**[1]** D. Aspari and O. Dewi, "Bamboo as a structural element of architectural buildings in tropical climates," _IOP Conf. Ser.: Earth Environ. Sci._, vol. 673, Jan. 2021, [https://doi.org/10.1088/1755-1315/673/1/012021](https://doi.org/10.1088/1755-1315/673/1/012021).
 
-Preces **fieri auribus** tollite praeterit iamque: [et robur](http://fraude.net/igne.html) fratribus manum laborum. Petitos pectus: non vinci silet _fata_, summa [illis](http://www.dum.net/), non Sole.
-
-Quod spinea inquit, rex clamorque ante. Fruges victus inter, esse minus Nesseo per caede ossa habitanda flammis satis. Vulneris pater herbis, confudit malis. Atlantiades nitenti vires videri citis auctor imago nimiumque montibus cantusque.
-
-## Ab properatis mortale percaluit denique atque
-
-Tiliae **hortos** arcadiae ignibus est Echione, quisquis iussis genitor et nomen. Legumque per Arcas magnum orat post hostiliter velata, venit unius tamen [pariter](http://nec-precanti.org/), mane canam carinae.
-
-- Sub necem morantur paulum sed longe
-- Utque maneat haec quatenus intervenit Tmolus vatibus
-- Lateri morbi moneri huius
-- Succendit terris
+**[2]** S. Kaminski, "Engineered bamboo houses for low-income communities in Latin America," _The Structural Engineer_, vol. 91, no. 10, pp. 14-23, Oct 2013.

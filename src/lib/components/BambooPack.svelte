@@ -1,11 +1,17 @@
+<!-- BambooPack visualization component -->
 <script>
 	// @ts-nocheck
 
 	export let descriptions;
 
+	import Tooltip from '$lib/components/Tooltip.svelte';
 	import { pack, hierarchy } from 'd3-hierarchy';
+	import { detach_dev } from 'svelte/internal';
+
+	// takes in data, a json file
 	export let data;
 
+	// setting up the position for the circle pack
 	const move = (x, y) => `transform: translate(${x}px, ${y}px`;
 
 	export let margins = {
@@ -22,6 +28,7 @@
 	$: mainWidth = width - margins.right - margins.left;
 	$: mainHeight = height - margins.top - margins.bottom;
 
+	// creating the circle pack
 	$: packer = pack().size([mainWidth, mainHeight]).padding(30);
 	$: root = hierarchy(data)
 		.sum(() => {
@@ -31,6 +38,7 @@
 	$: circlePack = packer(root);
 	$: descendants = circlePack.descendants();
 
+	// loads a specific description based on the bubble that is actively focused
 	function loadDescription(f) {
 		for (const d in descriptions) {
 			if (descriptions[d].path === '/../lib/data/' + f) {
@@ -40,20 +48,27 @@
 		console.log('Description not found.');
 	}
 
+	// focus is on overview when the visualization is first rendered
 	let focus = 'overview';
+
+	// description is loaded based on the focused bubble
 	$: description = loadDescription(focus);
 </script>
 
 <div class="viz-container">
+	<!-- description that corresponds to the active bubble -->
 	<div class="description">
 		<h1>{description.name}</h1>
 		<div class="content">{@html description.content}</div>
 	</div>
 
+	<!-- circle pack! -->
 	<svg {width} {height}>
 		<g style={move(margins.top, margins.left)}>
+			<!-- looping through to render each circle -->
 			{#each descendants as d}
 				{#if d.data.children}
+					<!-- circles with children should have the bamboo stroke pattern -->
 					<circle
 						cx={d.x}
 						cy={d.y}
@@ -66,6 +81,7 @@
 						}}
 					/>
 				{:else}
+					<!-- circles without children should just be a dark circle without a stroke -->
 					<circle
 						cx={d.x}
 						cy={d.y}
@@ -76,6 +92,7 @@
 						}}
 					/>
 				{/if}
+				<Tooltip name={d.data.name} className={focus === d.data.src ? 'active' : ''} />
 			{/each}
 		</g>
 	</svg>
@@ -86,11 +103,14 @@
 		display: grid;
 		grid-template-columns: 1fr 1fr;
 	}
+
 	circle {
 		transition: 0.4s;
 		filter: drop-shadow(0px 0px 7px var(--primary-highlight));
 		cursor: pointer;
 	}
+
+	// styles for circles that have children
 	.parent-circle {
 		fill: rgba(224, 236, 190, 0.5);
 		stroke: var(--primary-light);
@@ -103,6 +123,8 @@
 			fill: var(--active-highlight);
 		}
 	}
+
+	// styles for circles that do not have children
 	.baby-circle {
 		fill: #ccdd9f;
 		stroke-width: 0;
@@ -113,13 +135,15 @@
 			fill: var(--active);
 		}
 	}
+
+	// styles for the scrollable description
 	.content {
 		background-color: var(--primary-highlighter);
 		overflow-y: scroll;
-		// height: 50vh;
+		overflow-wrap: anywhere;
 		height: auto;
 		margin-right: 1rem;
-		padding: 0 2rem 1rem 2rem;
+		padding: 1rem 2rem;
 		border-radius: 5px;
 
 		&::-webkit-scrollbar {
@@ -133,11 +157,14 @@
 			height: 50%;
 		}
 	}
+
+	// wrapper for the heading + content
 	.description {
 		display: grid;
 		grid-template-rows: min-content 1fr;
 		height: 75vh;
 	}
+
 	svg {
 		justify-self: end;
 	}

@@ -41,26 +41,12 @@
 							"src": "joints",
 							"children": [
 								{
-									"name": "Vernacular joints",
-									"src": "vernacular-joints"
+									"name": "Janssen's classification",
+									"src": "janssen"
 								},
 								{
-									"name": "Engineered joints",
-									"src": "engineered-joints"
-								},
-								{
-									"name": "Joint classification",
-									"src": "joint-classification",
-									"children": [
-										{
-											"name": "Janssen's classification",
-											"src": "janssen"
-										},
-										{
-											"name": "Widyowijatnoko’s classification",
-											"src": "widyowijatnoko"
-										}
-									]
+									"name": "Widyowijatnoko’s classification",
+									"src": "widyowijatnoko"
 								}
 							]
 						}

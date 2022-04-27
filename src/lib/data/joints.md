@@ -2,6 +2,11 @@
 name: Joints
 ---
 
+Because bamboo varies in its physical properties from culm to culm, jointing practices should support the strength of the bamboo rather than contributing to its weakness.
+
+- vernacular construction joint examples
+- engineered construction joint examples
+
 ## Te umero et
 
 Lorem markdownum traxit, fistula est at caelestes alium, demisso vectus in undique foret, in qui iam. Habenti saepe.
@@ -14,11 +19,6 @@ Preces **fieri auribus** tollite praeterit iamque: [et robur](http://fraude.net/
 
 Quod spinea inquit, rex clamorque ante. Fruges victus inter, esse minus Nesseo per caede ossa habitanda flammis satis. Vulneris pater herbis, confudit malis. Atlantiades nitenti vires videri citis auctor imago nimiumque montibus cantusque.
 
-## Ab properatis mortale percaluit denique atque
+## References
 
-Tiliae **hortos** arcadiae ignibus est Echione, quisquis iussis genitor et nomen. Legumque per Arcas magnum orat post hostiliter velata, venit unius tamen [pariter](http://nec-precanti.org/), mane canam carinae.
-
-- Sub necem morantur paulum sed longe
-- Utque maneat haec quatenus intervenit Tmolus vatibus
-- Lateri morbi moneri huius
-- Succendit terris
+**[2]** A. Widyowijatnoko and K. Harries, "20 - Joints in bamboo construction," _Nonconventional and Vernacular Construction Materials (Second Edition)_, pp. 561-596, Jan. 2020, [https://doi.org/10.1016/B978-0-08-102704-2.00020-2](https://doi.org/10.1016/B978-0-08-102704-2.00020-2).

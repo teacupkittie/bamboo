@@ -1,14 +1,29 @@
+<script context="module">
+	// this runs before the layout is rendered, setting key to the URL path
+	export const load = async ({ url }) => ({
+		props: {
+			key: url.pathname
+		}
+	});
+</script>
+
 <script>
 	import '../app.scss';
 	import NavButton from '$lib/components/NavButton.svelte';
 	import { page } from '$app/stores';
+
+	import PageTransition from '$lib/components/PageTransition.svelte';
+
+	export let key;
 </script>
 
 <div class="outer-container">
 	<div class="label">BAMBOO HOUSING</div>
 
 	<div class="container">
-		<slot />
+		<PageTransition refresh={key}>
+			<slot />
+		</PageTransition>
 	</div>
 
 	<div class="footer">
