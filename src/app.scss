@@ -16,19 +16,20 @@
 	--dark: #737373;
 	--darker: #454545;
 	--darkest: #161616;
+	--light-highlight: rgba(246, 246, 246, 0.75);
 
 	/* default colors */
 	--text-color: var(--darker);
 	--bg-color: var(--lightest);
 	--primary-light: #ccdd9f;
 	--primary: #c0d587;
-	--primary-darkish: #a9c168;
-	--primary-dark: #7c9537;
+	--primary-dark: #a9c168;
 	--primary-highlight: rgba(224, 236, 190, 0.5);
 	--primary-highlighter: rgba(224, 236, 190, 0.25);
 	--primary-subtle: rgba(224, 236, 190, 0.75);
 
 	--active: #ba9d85;
+	--active-light: #e7d3c3;
 	--active-highlight: rgba(215, 203, 195, 0.3);
 }
 
@@ -49,7 +50,7 @@ h2 {
 }
 
 a {
-	color: var(--primary-darkish);
+	color: var(--primary-dark);
 }
 
 img {

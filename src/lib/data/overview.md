@@ -20,6 +20,8 @@ Bamboo residential construction techniques can be broadly divided into vernacula
 
 #### Bamboo construction classification [2].
 
+Click on any bubble to learn more about a specific topic.
+
 ## References
 
 **[1]** A. Emamverdiam, Y. Ding, F. Ranaei, and Z. Ahmad, "Application of Bamboo Plants in Nine Aspects," _TheScientificWorldJournal_, vol. 2020, no. 7284203, Sep. 2020, [https://doi.org/10.1155/2020/7284203](https://doi.org/10.1155/2020/7284203).

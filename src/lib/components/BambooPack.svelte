@@ -16,10 +16,10 @@
 
 	export let margins = {
 		// typical d3 margin convention
-		top: 20,
-		right: 20,
-		bottom: 20,
-		left: 20
+		top: 30,
+		right: 30,
+		bottom: 30,
+		left: 30
 	};
 
 	export let height;
@@ -53,9 +53,14 @@
 
 	// description is loaded based on the focused bubble
 	$: description = loadDescription(focus);
+
+	// determines what the user is hovering over
+	let hoverfocus = '';
+
+	let m = { x: 0, y: 0 };
 </script>
 
-<div class="viz-container">
+<div class="viz-container" on:mousemove={(e) => (m = { x: e.clientX, y: e.clientY })}>
 	<!-- description that corresponds to the active bubble -->
 	<div class="description">
 		<h1>{description.name}</h1>
@@ -79,6 +84,18 @@
 						on:click={() => {
 							focus = d.data.src;
 						}}
+						on:mouseover={() => {
+							hoverfocus = d.data.name;
+						}}
+						on:mouseout={() => {
+							hoverfocus = '';
+						}}
+						on:focus={() => {
+							hoverfocus = d.data.name;
+						}}
+						on:blur={() => {
+							hoverfocus = '';
+						}}
 					/>
 				{:else}
 					<!-- circles without children should just be a dark circle without a stroke -->
@@ -90,12 +107,31 @@
 						on:click={() => {
 							focus = d.data.src;
 						}}
+						on:mouseover={() => {
+							hoverfocus = d.data.name;
+						}}
+						on:mouseout={() => {
+							hoverfocus = '';
+						}}
+						on:focus={() => {
+							hoverfocus = d.data.name;
+						}}
+						on:blur={() => {
+							hoverfocus = '';
+						}}
 					/>
 				{/if}
-				<Tooltip name={d.data.name} className={focus === d.data.src ? 'active' : ''} />
 			{/each}
 		</g>
 	</svg>
+
+	<!-- Tooltip that follows the cursor and displays the bubble that the cursor is currently hovering over -->
+	<div
+		style="position: fixed; left: {m.x + 5}px; top: {m.y + 5}px"
+		class={hoverfocus === '' ? 'hidden-tooltip' : ''}
+	>
+		<Tooltip name={hoverfocus} />
+	</div>
 </div>
 
 <style lang="scss">
@@ -108,6 +144,7 @@
 		transition: 0.4s;
 		filter: drop-shadow(0px 0px 7px var(--primary-highlight));
 		cursor: pointer;
+		outline: none;
 	}
 
 	// styles for circles that have children
@@ -116,7 +153,7 @@
 		stroke: var(--primary-light);
 		stroke-width: 0.5rem;
 		&:hover {
-			stroke: var(--primary);
+			stroke: var(--primary-dark);
 		}
 		&.active {
 			stroke: var(--active);
@@ -129,7 +166,7 @@
 		fill: #ccdd9f;
 		stroke-width: 0;
 		&:hover {
-			fill: var(--primary);
+			fill: var(--primary-dark);
 		}
 		&.active {
 			fill: var(--active);
@@ -167,5 +204,10 @@
 
 	svg {
 		justify-self: end;
+	}
+
+	// when the cursor is out of the circle's bounds, hide the tooltip!
+	.hidden-tooltip {
+		display: none;
 	}
 </style>

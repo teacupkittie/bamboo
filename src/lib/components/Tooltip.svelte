@@ -1,19 +1,20 @@
+<!-- Tooltip description -->
 <script>
 	export let name;
-	export let className;
 </script>
 
-<div class={className}>{name}</div>
+<div>{name}</div>
 
 <style lang="scss">
 	div {
-		padding: 1rem;
-		background-color: var(--lighter);
+		padding: 0.25rem 0.5rem;
+		background-color: var(--light-highlight);
+		border: 2px solid var(--lightest);
+		color: var(--dark);
+		border-radius: 5px;
 		z-index: 2;
-		display: none;
-	}
-
-	.active {
 		display: block;
+		width: min-content;
+		white-space: nowrap;
 	}
 </style>
