@@ -4,22 +4,13 @@ name: Preservation methods
 
 ## Attack!
 
-Engineers consider methods to prevent decay when building with bamboo, especially because bamoo has fewer natural toxin [1]. Moreover, since bamboo is hollow, a small amount of decay can mean a large proportion of lost mass. Three common causes of decay include beetle attack, termite attack, and rotting [1].
+**Preventing decay** is a primary concern when building with bamboo, especially because bamboo has fewer natural toxins than wood [1]. Moreover, since bamboo is hollow, a small amount of decay can mean a large proportion of lost mass. Three common causes of decay include **beetle attack**, **termite attack**, and **rotting** [1].
 
 ## Protection methods
 
-Preces **fieri auribus** tollite praeterit iamque: [et robur](http://fraude.net/igne.html) fratribus manum laborum. Petitos pectus: non vinci silet _fata_, summa [illis](http://www.dum.net/), non Sole.
+With preventing decay, the goal is to **keep the bamboo dry** [1]. Recommended protection methods include using a roof with a good overhang and avoiding water traps. Moreover, separating bamboo from the ground with a concrete slab can prevent subterranean termite attack.
 
-Quod spinea inquit, rex clamorque ante. Fruges victus inter, esse minus Nesseo per caede ossa habitanda flammis satis. Vulneris pater herbis, confudit malis. Atlantiades nitenti vires videri citis auctor imago nimiumque montibus cantusque.
-
-## Preservative methods
-
-Tiliae **hortos** arcadiae ignibus est Echione, quisquis iussis genitor et nomen. Legumque per Arcas magnum orat post hostiliter velata, venit unius tamen [pariter](http://nec-precanti.org/), mane canam carinae.
-
-- Sub necem morantur paulum sed longe
-- Utque maneat haec quatenus intervenit Tmolus vatibus
-- Lateri morbi moneri huius
-- Succendit terris
+In colder, drier climates, these protection methods will generally be enough [1]. However, bamboo building in tropical climates often require **treatment methods**.
 
 ## References
 
