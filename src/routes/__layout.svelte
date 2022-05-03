@@ -17,6 +17,16 @@
 	export let key;
 </script>
 
+<svelte:head>
+	<title>Bamboo housing</title>
+	<meta property="og:title" content="Bamboo housing" />
+	<meta property="og:type" content="article" />
+	<meta
+		property="og:description"
+		content="The call for sustainable and affordable housing is clear—people across the globe are witnessing a shortage of homes. How is bamboo currently being used in the built environment, and how can it flourish in the future?"
+	/>
+</svelte:head>
+
 <div class="outer-container">
 	<div class="label">BAMBOO HOUSING</div>
 

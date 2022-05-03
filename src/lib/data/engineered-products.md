@@ -1,24 +1,33 @@
 ---
-name: Engineered products
+name: Engineered bamboo products
 ---
 
-## Te umero et
+Engineered bamboo products such as **laminated bamboo** and **bamboo scrimber** are manufactured to be used in place of conventional materials [1].
 
-Lorem markdownum traxit, fistula est at caelestes alium, demisso vectus in undique foret, in qui iam. Habenti saepe.
+## Laminated bamboo
 
-Aper deae verum insilit Orci; est sensit tu forte. Remotis iram sidereum contenta patetis. Gaudeat nymphas convicia numina: quoque conprendere exitus, clauso. Paterque mortalia umbrae mos pedes anno cum mirabile quaecumque corpus virtus norint. Erat sed fratres carinae, est vulgata pulsant poterat nutrix.
+While **laminated bamboo** utilizes the full culm at around 30% efficiency, it discards denser parts of the culm while maintaining similar tensile and compressive strength [1]. Here's how laminated bamboo is made:
 
-## Tubae altera arbore Iuppiter miserande mirum Aethalion
+1. bamboo culms are **split into strips** and planed
+2. rectangular planes are **caramelized** and **boiled**
+3. boiled planes are **stacked**, **glued**, and **pressed**
 
-Preces **fieri auribus** tollite praeterit iamque: [et robur](http://fraude.net/igne.html) fratribus manum laborum. Petitos pectus: non vinci silet _fata_, summa [illis](http://www.dum.net/), non Sole.
+![Laminated bamboo diagram](images/laminated-bamboo-diagram.jpg)
 
-Quod spinea inquit, rex clamorque ante. Fruges victus inter, esse minus Nesseo per caede ossa habitanda flammis satis. Vulneris pater herbis, confudit malis. Atlantiades nitenti vires videri citis auctor imago nimiumque montibus cantusque.
+#### Diagram illustrating the process of manufacturing laminated bamboo (José Tomás Franco).
 
-## Ab properatis mortale percaluit denique atque
+## Bamboo scrimber
 
-Tiliae **hortos** arcadiae ignibus est Echione, quisquis iussis genitor et nomen. Legumque per Arcas magnum orat post hostiliter velata, venit unius tamen [pariter](http://nec-precanti.org/), mane canam carinae.
+**Bamboo scrimber** (a.k.a. strand-woven bamboo or parallel-strand bamboo) utilizes the full culm with 80% efficiency. The process is as follows [1]:
 
-- Sub necem morantur paulum sed longe
-- Utque maneat haec quatenus intervenit Tmolus vatibus
-- Lateri morbi moneri huius
-- Succendit terris
+1. bamboo culms are **split into strips**
+2. strips **preserved**, **caramelized**, and **dried**
+3. dried strips are **crushed**, **coated in resin**, **pressed**, and **cured**
+
+![Bamboo scrimber and laminated bamboo](images/scrimber-laminated-bamboo.jpg)
+
+#### Visual comparison of bamboo scrimber (top) and laminated bamboo (middle and bottom) ([Zen Bamboo](https://zenfloor.en.made-in-china.com/product/cvCxaBLEgMhA/China-Laminated-Bamboo-Lumber.html)).
+
+## References
+
+**[1]** B. Sharma, A. Gatoo, M. Bock, H. Mulligan, and M. Ramage, "Engineered bamboo: state of the art," _Construction Materials_, vol. 168, no. 2, pp. 57-67, Apr. 2015. [https://doi.org/10.1680/coma.14.00020](https://doi.org/10.1680/coma.14.00020).

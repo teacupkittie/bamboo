@@ -14,4 +14,4 @@ In other words, how have places around the world built with bamboo over time?
 
 **[2]** D. Aspari and O. Dewi, "Bamboo as a structural element of architectural buildings in tropical climates," _IOP Conf. Ser.: Earth Environ. Sci._, vol. 673, Jan. 2021, [https://doi.org/10.1088/1755-1315/673/1/012021](https://doi.org/10.1088/1755-1315/673/1/012021).
 
-**[3]** S. Kaminski, "Engineered bamboo houses for low-income communities in Latin America," _The Structural Engineer_, vol. 91, no. 10, pp. 14-23, Oct 2013.
+**[3]** S. Kaminski, "Engineered bamboo houses for low-income communities in Latin America," _The Structural Engineer_, vol. 91, no. 10, pp. 14-23, Oct. 2013.

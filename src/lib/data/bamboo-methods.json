@@ -7,22 +7,18 @@
 			"src": "engineered-methods",
 			"children": [
 				{
-					"name": "Engineered bamboo products",
-					"src": "engineered-products",
+					"name": "Substitutive construction",
+					"src": "substitutive-construction",
 					"children": [
 						{
-							"name": "Laminated bamboo",
-							"src": "laminated-bamboo"
+							"name": "Engineered bamboo products",
+							"src": "engineered-products"
 						},
 						{
-							"name": "Bamboo scrimber",
-							"src": "bamboo-scrimber"
+							"name": "Laminated bamboo frame",
+							"src": "laminated-bamboo-frame"
 						}
 					]
-				},
-				{
-					"name": "Laminated bamboo frame",
-					"src": "laminated-bamboo-frame"
 				},
 				{
 					"name": "Full culm bamboo construction",

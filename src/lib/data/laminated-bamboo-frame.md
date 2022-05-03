@@ -2,23 +2,16 @@
 name: Laminated bamboo frame
 ---
 
-## Te umero et
+**Laminated bamboo frame building** is a direct alternative to wood-frame building, where laminated bamboo is used instead of wooden beams [1].
 
-Lorem markdownum traxit, fistula est at caelestes alium, demisso vectus in undique foret, in qui iam. Habenti saepe.
+Not only does it lower the environmental impact of the built environment, but bamboo also has a much higher annual yield per hectare compared to wood [1]. In other words, where we'd be able to build **one house every four years with wood**, we could build **one house every year with bamboo** [1]. For example, if Guadua bamboo forest area reached just 10% of its potential in Colombia, we could build 200,000 laminated bamboo frame houses each year.
 
-Aper deae verum insilit Orci; est sensit tu forte. Remotis iram sidereum contenta patetis. Gaudeat nymphas convicia numina: quoque conprendere exitus, clauso. Paterque mortalia umbrae mos pedes anno cum mirabile quaecumque corpus virtus norint. Erat sed fratres carinae, est vulgata pulsant poterat nutrix.
+This bamboo building method lends itself well to **prefabricated and modular homes**, made for quick assembly at a large scale. [Cubo](https://cubo.ph/) is one such example of a company that produces these prefabricated homes, accelerating sustainable building while providing affordable housing solutions in the Philippines.
 
-## Tubae altera arbore Iuppiter miserande mirum Aethalion
+![Cubo modular design](images/cubo.jpg)
 
-Preces **fieri auribus** tollite praeterit iamque: [et robur](http://fraude.net/igne.html) fratribus manum laborum. Petitos pectus: non vinci silet _fata_, summa [illis](http://www.dum.net/), non Sole.
+#### An example of Cubo's modular design floor plans ([Cubo](https://cubo.ph/)).
 
-Quod spinea inquit, rex clamorque ante. Fruges victus inter, esse minus Nesseo per caede ossa habitanda flammis satis. Vulneris pater herbis, confudit malis. Atlantiades nitenti vires videri citis auctor imago nimiumque montibus cantusque.
+## References
 
-## Ab properatis mortale percaluit denique atque
-
-Tiliae **hortos** arcadiae ignibus est Echione, quisquis iussis genitor et nomen. Legumque per Arcas magnum orat post hostiliter velata, venit unius tamen [pariter](http://nec-precanti.org/), mane canam carinae.
-
-- Sub necem morantur paulum sed longe
-- Utque maneat haec quatenus intervenit Tmolus vatibus
-- Lateri morbi moneri huius
-- Succendit terris
+**[1]** K. De Flander, R. Rovers, "One laminated bamboo-frame house per hectare per year," _Construction and Building Materials_, vol. 23, no. 1, pp. 210-218, 2009, [https://doi.org/10.1016/j.conbuildmat.2008.01.004](https://doi.org/10.1016/j.conbuildmat.2008.01.004).
