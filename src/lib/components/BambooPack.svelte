@@ -64,7 +64,10 @@
 	<!-- description that corresponds to the active bubble -->
 	<div class="description">
 		<h1>{description.name}</h1>
-		<div class="content">{@html description.content}</div>
+		<!-- key block re-creates the content block, which sets scrollTop to 0 -->
+		{#key description.content}
+			<div class="content">{@html description.content}</div>
+		{/key}
 	</div>
 
 	<!-- circle pack! -->
