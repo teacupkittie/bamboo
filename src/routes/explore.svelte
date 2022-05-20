@@ -1,3 +1,4 @@
+<!-- Page that showcases the Bamboo circle pack viz! -->
 <script context="module">
 	// fetch descriptions before the component is rendered
 	export const load = async ({ fetch }) => {
@@ -20,11 +21,23 @@
 	let height;
 
 	export let descriptions;
+
+	// A unique object is generated every time hashchange event is triggered, which causes the BambooPack to restart because it is keyed
+	let unique;
+
+	function restart() {
+		unique = {};
+	}
 </script>
 
-<div class="chart-wrapper" bind:clientHeight={height}>
-	<BambooPack {data} {height} {descriptions} />
-</div>
+<!-- on hashchange, trigger a restart -->
+<svelte:window on:hashchange={restart} />
+
+{#key unique}
+	<div class="chart-wrapper" bind:clientHeight={height}>
+		<BambooPack {data} {height} {descriptions} />
+	</div>
+{/key}
 
 <style>
 	.chart-wrapper {

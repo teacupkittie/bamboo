@@ -2,23 +2,14 @@
 name: Bahareque
 ---
 
-## Te umero et
+**Bahareque** _(bah-hah-RAY-kay)_ refers to a popular derivative of wattle and daub, local to Latin America [1]. It's also known as "'**quincha**' in Peru, '**cuje**' in Cuba, '**pao pique**' in Brazil and '**tabiquería**' in other countries" [1].
 
-Lorem markdownum traxit, fistula est at caelestes alium, demisso vectus in undique foret, in qui iam. Habenti saepe.
+## Latin America's climate
 
-Aper deae verum insilit Orci; est sensit tu forte. Remotis iram sidereum contenta patetis. Gaudeat nymphas convicia numina: quoque conprendere exitus, clauso. Paterque mortalia umbrae mos pedes anno cum mirabile quaecumque corpus virtus norint. Erat sed fratres carinae, est vulgata pulsant poterat nutrix.
+[1]
 
-## Tubae altera arbore Iuppiter miserande mirum Aethalion
+[engineered bahareque](#cement-bamboo-frame)
 
-Preces **fieri auribus** tollite praeterit iamque: [et robur](http://fraude.net/igne.html) fratribus manum laborum. Petitos pectus: non vinci silet _fata_, summa [illis](http://www.dum.net/), non Sole.
+## References
 
-Quod spinea inquit, rex clamorque ante. Fruges victus inter, esse minus Nesseo per caede ossa habitanda flammis satis. Vulneris pater herbis, confudit malis. Atlantiades nitenti vires videri citis auctor imago nimiumque montibus cantusque.
-
-## Ab properatis mortale percaluit denique atque
-
-Tiliae **hortos** arcadiae ignibus est Echione, quisquis iussis genitor et nomen. Legumque per Arcas magnum orat post hostiliter velata, venit unius tamen [pariter](http://nec-precanti.org/), mane canam carinae.
-
-- Sub necem morantur paulum sed longe
-- Utque maneat haec quatenus intervenit Tmolus vatibus
-- Lateri morbi moneri huius
-- Succendit terris
+**[1]** S. Kaminski, "Engineered bamboo houses for low-income communities in Latin America," _The Structural Engineer_, vol. 91, no. 10, pp. 14-23, Oct 2013.

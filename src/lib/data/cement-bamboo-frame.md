@@ -1,6 +1,10 @@
 ---
-name: Cement-bamboo frame (engineered Bahareque)
+name: Cement-bamboo frame
 ---
+
+ALSO KNOWN AS ENGINEERED BAHAREQUE
+
+[bahareque](#bahareque)
 
 ## Te umero et
 

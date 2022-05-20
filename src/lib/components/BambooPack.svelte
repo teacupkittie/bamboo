@@ -6,7 +6,10 @@
 
 	import Tooltip from '$lib/components/Tooltip.svelte';
 	import { pack, hierarchy } from 'd3-hierarchy';
-	import { detach_dev } from 'svelte/internal';
+
+	// svelte imports
+	import { goto } from '$app/navigation';
+	import { browser } from '$app/env';
 
 	// takes in data, a json file
 	export let data;
@@ -48,8 +51,8 @@
 		console.log('Description not found.');
 	}
 
-	// focus is on overview when the visualization is first rendered
-	let focus = 'overview';
+	// focus is on overview when the visualization is first rendered UNLESS it's specified
+	let focus = browser ? location.hash.substring(1) || 'overview' : 'overview';
 
 	// description is loaded based on the focused bubble
 	$: description = loadDescription(focus);
@@ -57,7 +60,14 @@
 	// determines what the user is hovering over
 	let hoverfocus = '';
 
-	let m = { x: 0, y: 0 };
+	// in the case that x and y position aren't set, the cursor should fall back on a position that is out of view -- in this case, (-500, -500)
+	let m = { x: -500, y: -500 };
+
+	// handles clicks on the different circles, setting the active circle and the URL hash
+	const handleClick = async (src) => {
+		focus = src;
+		await goto('#' + focus);
+	};
 </script>
 
 <div class="viz-container" on:mousemove={(e) => (m = { x: e.clientX, y: e.clientY })}>
@@ -84,9 +94,7 @@
 						class="parent-circle {focus === d.data.src ? 'active' : ''}"
 						stroke-dasharray="15 15"
 						stroke-linecap="round"
-						on:click={() => {
-							focus = d.data.src;
-						}}
+						on:click={handleClick(d.data.src)}
 						on:mouseover={() => {
 							hoverfocus = d.data.name;
 						}}
@@ -107,9 +115,7 @@
 						cy={d.y}
 						r={d.r}
 						class="baby-circle {focus === d.data.src ? 'active' : ''}"
-						on:click={() => {
-							focus = d.data.src;
-						}}
+						on:click={handleClick(d.data.src)}
 						on:mouseover={() => {
 							hoverfocus = d.data.name;
 						}}
@@ -127,7 +133,6 @@
 			{/each}
 		</g>
 	</svg>
-
 	<!-- Tooltip that follows the cursor and displays the bubble that the cursor is currently hovering over -->
 	<div
 		style="position: fixed; left: {m.x + 5}px; top: {m.y + 5}px"
