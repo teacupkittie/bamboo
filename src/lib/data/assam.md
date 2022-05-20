@@ -1,24 +1,19 @@
 ---
-name: Assam-type house
+name: Assam vernacular architecture
 ---
 
-## Te umero et
+Two major types of houses are found in Assam: the more traditional **Chang Ghar house** and the relatively newer **Assam-type house** [1]. Although distinct, both housing structures leverage bamboo to support families in Assam's unique climate.
 
-Lorem markdownum traxit, fistula est at caelestes alium, demisso vectus in undique foret, in qui iam. Habenti saepe.
+## Assam's climate
 
-Aper deae verum insilit Orci; est sensit tu forte. Remotis iram sidereum contenta patetis. Gaudeat nymphas convicia numina: quoque conprendere exitus, clauso. Paterque mortalia umbrae mos pedes anno cum mirabile quaecumque corpus virtus norint. Erat sed fratres carinae, est vulgata pulsant poterat nutrix.
+Assam commonly has **frequent, heavy rain showers** for many months of the year [1]. Assam also lies in the seismic zone V region, which means that local structures must be able to resist **massive earthquakes**, too.
 
-## Tubae altera arbore Iuppiter miserande mirum Aethalion
+## Vernacular highlights
 
-Preces **fieri auribus** tollite praeterit iamque: [et robur](http://fraude.net/igne.html) fratribus manum laborum. Petitos pectus: non vinci silet _fata_, summa [illis](http://www.dum.net/), non Sole.
+**Bamboo** plays a central role in Assam's vernacular architecture because of its local abundance, lightweight properties, and thermal properties that shield against harsh weather [1]. Other materials include wood, cane, reed, thatch, mud, and coir. These natural materials contribute to the structures' **environmental sustainability**.
 
-Quod spinea inquit, rex clamorque ante. Fruges victus inter, esse minus Nesseo per caede ossa habitanda flammis satis. Vulneris pater herbis, confudit malis. Atlantiades nitenti vires videri citis auctor imago nimiumque montibus cantusque.
+Frames used in Assam-type houses divide the wall into smaller sections, "**distributing lateral and shear forces** during an earthquake" [1]. Chang Ghar's coir and jute rope joints **add flexibilty** to the structure, leading to strong earthquake performance.
 
-## Ab properatis mortale percaluit denique atque
+## References
 
-Tiliae **hortos** arcadiae ignibus est Echione, quisquis iussis genitor et nomen. Legumque per Arcas magnum orat post hostiliter velata, venit unius tamen [pariter](http://nec-precanti.org/), mane canam carinae.
-
-- Sub necem morantur paulum sed longe
-- Utque maneat haec quatenus intervenit Tmolus vatibus
-- Lateri morbi moneri huius
-- Succendit terris
+**[1]** S. Ravishankar and S. Ji, "Exploring Two Housing Typologies in the Vernacular Architecture of Assam," _ICoRD 2021: Design for Tomorrow_, vol. 1, pp. 949-959, 2021, _Smart Innovation, Systems and Technologies_, vol. 221, [https://doi.org/10.1007/978-981-16-0041-8_78](https://doi.org/10.1007/978-981-16-0041-8_78).

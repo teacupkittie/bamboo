@@ -14,4 +14,4 @@ This bamboo building method lends itself well to **prefabricated and modular hom
 
 ## References
 
-**[1]** K. De Flander, R. Rovers, "One laminated bamboo-frame house per hectare per year," _Construction and Building Materials_, vol. 23, no. 1, pp. 210-218, 2009, [https://doi.org/10.1016/j.conbuildmat.2008.01.004](https://doi.org/10.1016/j.conbuildmat.2008.01.004).
+**[1]** K. De Flander and R. Rovers, "One laminated bamboo-frame house per hectare per year," _Construction and Building Materials_, vol. 23, no. 1, pp. 210-218, 2009, [https://doi.org/10.1016/j.conbuildmat.2008.01.004](https://doi.org/10.1016/j.conbuildmat.2008.01.004).

@@ -83,8 +83,18 @@
 					"src": "erka"
 				},
 				{
-					"name": "Assam-type house",
-					"src": "assam"
+					"name": "Assam vernacular architecture",
+					"src": "assam",
+					"children": [
+						{
+							"name": "Chang Ghar house",
+							"src": "chang-ghar"
+						},
+						{
+							"name": "Assam-type house",
+							"src": "ikra"
+						}
+					]
 				},
 				{
 					"name": "Mru house",
