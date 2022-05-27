@@ -46,4 +46,4 @@ Several vetted preservative treatment methods are used frequently throughout bam
 
 **[1]** S. Kaminski, A. Lawrence, and D. Trujillo, "Structural use of bamboo. Part 2: Durability and preservation," _The Structural Engineer_, vol. 94, no. 10, pp. 38-43, 2016, [https://www.istructe.org/journal/volumes/volume-94-(2016)/issue-10/structural-use-of-bamboo-part-2-durability-and-pr](<https://www.istructe.org/journal/volumes/volume-94-(2016)/issue-10/structural-use-of-bamboo-part-2-durability-and-pr>)
 
-**[2]** S. Kaminski, "Engineered bamboo houses for low-income communities in Latin America," _The Structural Engineer_, vol. 91, no. 10, pp. 14-23, Oct 2013.
+**[2]** S. Kaminski, "Engineered bamboo houses for low-income communities in Latin America," _The Structural Engineer_, vol. 91, no. 10, pp. 14-23, Oct 2013, [https://www.istructe.org/journal/volumes/volume-91-(2013)/issue-10/engineered-bamboo-houses-for-low-income-communitie/](<https://www.istructe.org/journal/volumes/volume-91-(2013)/issue-10/engineered-bamboo-houses-for-low-income-communitie/>).

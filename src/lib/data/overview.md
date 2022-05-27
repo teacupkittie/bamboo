@@ -14,7 +14,7 @@ Unlike cutting down trees to produce wood, harvesting bamboo has negligible defo
 
 The strength, flexibility, sustainability, and economic viability of bamboo highlight the material as **a suitable option for residential construction**, especially in geographic regions where bamboo is grown locally. By rethinking current approaches to building, we can save the planet, solve housing shortages, and look good while doing it.
 
-Bamboo residential construction techniques can be broadly divided into vernacular and engineered methods. In the figure below, Widyowijatnoko breaks down further categorizations for bamboo construction [2].
+Bamboo residential construction techniques can be broadly divided into [vernacular](#vernacular-construction) and [engineered methods](#engineered-methods). In the figure below, Widyowijatnoko breaks down further categorizations for bamboo construction [2].
 
 ![Bamboo construction classification](images/bamboo-construction-classification.png)
 
