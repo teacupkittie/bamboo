@@ -2,7 +2,7 @@
 name: Joints
 ---
 
-Bamboo varies in its geometry from culm to culm, so joints are naturally a crucial part of a full-culm bamboo frame's sturdiness. **Joint design** dictates how the structure responds to compression, stress, shear, and more. Jointing practices should support the strength of the bamboo rather than contributing to its weakness.
+Bamboo varies in its geometry from culm to culm, so joints are naturally a crucial part of a full culm bamboo frame's sturdiness. **Joint design** dictates how the structure responds to compression, stress, shear, and more. Jointing practices should support the strength of the bamboo rather than contributing to its weakness.
 
 ## Vernacular construction joints
 

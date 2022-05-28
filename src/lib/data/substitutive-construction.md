@@ -6,7 +6,7 @@ One of the biggest barriers to building with bamboo is **a lack of standardizati
 
 Enter **engineered bamboo products**, which "create standard sections for members and connections" [1]. In this way, bamboo components can be **substituted** for conventional materials in popular construction methods.
 
-Although full-culm construction is more sustainable, the ease of use of engineered bamboo products drives large-scale adoption of bamboo as an alternative material [2]. Moreover, engineered bamboo products draw on the layman's associations with better quality and safety.
+Although full culm construction is more sustainable, the ease of use of engineered bamboo products drives large-scale adoption of bamboo as an alternative material [2]. Moreover, engineered bamboo products draw on the layman's associations with better quality and safety.
 
 ## References
 

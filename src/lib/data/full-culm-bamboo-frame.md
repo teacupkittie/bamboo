@@ -2,23 +2,59 @@
 name: Full culm bamboo frame
 ---
 
-## Te umero et
+**Full culm bamboo frame houses** are exactly what they sound like. Instead of wood planks or laminated bamboo planks, they use full culm bamboo to create the frame of the structure. This is distinct from [cement bamboo frame construction](#cement-bamboo-frame), which uses cement mortar to provide a walling system.
 
-Lorem markdownum traxit, fistula est at caelestes alium, demisso vectus in undique foret, in qui iam. Habenti saepe.
+Examples of full culm bamboo frame construction range from **practical and afforable homes** to **extravagant architectural structures**. H&P Architects designed the modular [Blooming Bamboo (BB)](https://hpa.vn/en/project/to-am-no-hoa/) home, aiming to address Vietnam's need for affordable and weather-resistant housing [1]. They emphasize the BB home's potential for connecting to vernacular architecture, noting that users can build the house by themselves and incorporate local materials.
 
-Aper deae verum insilit Orci; est sensit tu forte. Remotis iram sidereum contenta patetis. Gaudeat nymphas convicia numina: quoque conprendere exitus, clauso. Paterque mortalia umbrae mos pedes anno cum mirabile quaecumque corpus virtus norint. Erat sed fratres carinae, est vulgata pulsant poterat nutrix.
+![Blooming Bamboo home (external)](images/blooming-bamboo-1.jpg)
 
-## Tubae altera arbore Iuppiter miserande mirum Aethalion
+#### Example of H&P Architects' Blooming Bamboo home [1].
 
-Preces **fieri auribus** tollite praeterit iamque: [et robur](http://fraude.net/igne.html) fratribus manum laborum. Petitos pectus: non vinci silet _fata_, summa [illis](http://www.dum.net/), non Sole.
+![Blooming Bamboo home (internal)](images/blooming-bamboo-2.jpg)
 
-Quod spinea inquit, rex clamorque ante. Fruges victus inter, esse minus Nesseo per caede ossa habitanda flammis satis. Vulneris pater herbis, confudit malis. Atlantiades nitenti vires videri citis auctor imago nimiumque montibus cantusque.
+#### Example of the inside of a Blooming Bamboo home [1].
 
-## Ab properatis mortale percaluit denique atque
+[CRU! architects](https://www.cru-architecten.be/) have worked on many bamboo design projects, including a full culm bamboo frame community center for the low-income community of Camburi in Brazil.
 
-Tiliae **hortos** arcadiae ignibus est Echione, quisquis iussis genitor et nomen. Legumque per Arcas magnum orat post hostiliter velata, venit unius tamen [pariter](http://nec-precanti.org/), mane canam carinae.
+![Camburi community center](images/camburi-1.jpg)
 
-- Sub necem morantur paulum sed longe
-- Utque maneat haec quatenus intervenit Tmolus vatibus
-- Lateri morbi moneri huius
-- Succendit terris
+#### CRU! Architects' Camburi Community Center [2].
+
+![Camburi community center (joint close-up)](images/camburi-2.jpg)
+
+#### Close-up of a metal bolted joint in the Camburi Community Center [3].
+
+[Ibuku](https://ibuku.com/) is an architecture studio in Bali, Indonesia that specializes in **luxury bamboo structures** [4]. Ibuku's design process is deliberate and well-documented, from bamboo sourcing to treatment to modeling to construction. Their projects include:
+
+- elevated private homes such as the [Sharma Springs Residence](https://ibuku.com/sharma-springs-residence/) [5]
+- the [Pemulung Housing Project](https://ibuku.com/pemulung-housing/), a commissioned housing compound for garbage collectors in Bali [6]
+- the [Mepantigan Auditorium](https://ibuku.com/mepantigan-auditorium/), built for the Green School [7]
+- and more!
+
+![Sharma Springs Residence](images/sharma-springs.png)
+
+#### The Sharma Springs residence in Sibang Gede, Bali [5].
+
+![Pemulung Housing Project](images/pemulung.png)
+
+#### The Pemulung housing compound in Denpasar, Bali [6].
+
+![Mepantigan Auditorium](images/mepantigan-auditorium.png)
+
+#### The Mepantigan Auditorium at the Green School in Sibang Kaja, Bali [7].
+
+## References
+
+**[1]** H&P Architects, "Blooming Bamboo Home," hpa.vn, [https://hpa.vn/en/project/to-am-no-hoa/](https://hpa.vn/en/project/to-am-no-hoa/).
+
+**[2]** CRU! Architects, "Bamboostic project (image 14)," cru-architecten.be, [https://www.cru-architecten.be/#bamboostic-project/14](https://www.cru-architecten.be/#bamboostic-project/14).
+
+**[3]** CRU! Architects, "Bamboostic project (image 9)," cru-architecten.be, [https://www.cru-architecten.be/#bamboostic-project/9](https://www.cru-architecten.be/#bamboostic-project/9).
+
+**[4]** Ibuku, "Design Process," ibuku.com, [https://ibuku.com/about/design-process/](https://ibuku.com/about/design-process/).
+
+**[5]** Ibuku, "Sharma Springs Residence," ibuku.com, [https://ibuku.com/sharma-springs-residence/](https://ibuku.com/sharma-springs-residence/).
+
+**[6]** Ibuku, "Pemulung Housing Project," ibuku.com, [https://ibuku.com/pemulung-housing/](https://ibuku.com/pemulung-housing/).
+
+**[7]** Ibuku, "Mepantigan Auditorium at Green School," ibuku.com, [https://ibuku.com/mepantigan-auditorium/](https://ibuku.com/mepantigan-auditorium/).

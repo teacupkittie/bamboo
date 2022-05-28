@@ -55,4 +55,4 @@ National bamboo housing initiatives have also been implemented across Latin Amer
 
 **[3]** S. Kaminski, A. Lawrence, and D. Trujillo, "Design Guide for Engineered Bahareque Housing," _International Network for Bamboo and Rattan Technical Reports_, no. 38, 2016, [https://www.inbar.int/wp-content/uploads/2020/05/1491901273.pdf](https://www.inbar.int/wp-content/uploads/2020/05/1491901273.pdf) (accessed: May 23, 2022).
 
-**[4]** BASE Bahay Foundation, "About BASE," base-builds.com, [http://www.base-builds.com/our-houses/](http://www.base-builds.com/our-houses/)
+**[4]** BASE Bahay Foundation, "About BASE," base-builds.com, [http://www.base-builds.com/our-houses/](http://www.base-builds.com/our-houses/).
