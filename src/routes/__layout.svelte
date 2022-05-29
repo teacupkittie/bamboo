@@ -16,7 +16,7 @@
 
 	export let key;
 
-	let padding = '';
+	let padding = $page.url.pathname.substring(1);
 	$: $page.url.pathname,
 		setTimeout(() => {
 			padding = $page.url.pathname.substring(1);
