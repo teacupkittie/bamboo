@@ -41,6 +41,6 @@
 
 <style>
 	.chart-wrapper {
-		height: calc(100vh - 10rem);
+		height: min(50vw, 80vh);
 	}
 </style>

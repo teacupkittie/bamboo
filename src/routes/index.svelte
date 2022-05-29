@@ -34,12 +34,14 @@
 	.byline {
 		padding: 1rem 0;
 	}
+	.content-wrapper {
+		display: flex;
+		height: calc(100vh - 5rem);
+		justify-content: center;
+		align-items: center;
+	}
 	.content {
 		text-align: center;
-		width: 50rem;
-		position: fixed;
-		top: 50%;
-		left: 50%;
-		transform: translate(-50%, -50%);
+		width: max(50rem, 40vw);
 	}
 </style>

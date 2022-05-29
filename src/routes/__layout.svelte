@@ -15,6 +15,12 @@
 	import PageTransition from '$lib/components/PageTransition.svelte';
 
 	export let key;
+
+	let padding = '';
+	$: $page.url.pathname,
+		setTimeout(() => {
+			padding = $page.url.pathname.substring(1);
+		}, 600);
 </script>
 
 <svelte:head>
@@ -27,10 +33,18 @@
 	/>
 </svelte:head>
 
-<div class="outer-container">
-	<div class="label">BAMBOO HOUSING</div>
+<div class="mobile">
+	<h1>Hey, mobile user!</h1>
+	<p>
+		This project has yet to be implemented for smaller screens. In the meantime, please visit this
+		page on a computer!
+	</p>
+</div>
 
-	<div class="container">
+<div class="outer-container">
+	<a class="label" href="/">BAMBOO HOUSING</a>
+
+	<div class={padding + '-container'}>
 		<PageTransition refresh={key}>
 			<slot />
 		</PageTransition>
@@ -45,17 +59,39 @@
 			<NavButton align="right" text="DISCUSSION" href="/discussion" />
 		{:else if $page.url.pathname === '/discussion'}
 			<NavButton align="left" text="EXPLORE" href="/explore" />
-			<NavButton align="right" text="SHARE" href="/" />
+			<div class="easter-egg" />
 		{/if}
 	</div>
 </div>
 
 <style lang="scss">
+	.label {
+		text-decoration: none;
+	}
+
+	@media screen and (max-width: 1000px) {
+		.outer-container {
+			display: none;
+		}
+		.mobile {
+			display: block !important;
+		}
+	}
+
+	.mobile {
+		display: none;
+		padding: 2rem;
+	}
+
 	.outer-container {
 		margin: 1rem;
 	}
-	.container {
-		padding: 3rem 10rem;
+
+	.discussion-container {
+		padding: 5vh 10rem;
+	}
+	.explore-container {
+		padding: 5vh 10vw;
 	}
 	.footer {
 		position: fixed;

@@ -1,5 +1,7 @@
 # Discussion
 
+<div class="discussion-content">
+
 Summary: there's a lot of stuff out there, but most of it is pretty scattered. This project consolidates them and visualizes the relationships between different concepts surrounding bamboo residential construction.
 
 ## Observations
@@ -30,3 +32,27 @@ If you are curious about how I made this visualization, check out the blog post 
 Aside from the countless well-researched and informative articles cited throughout the visualization, Amelia Wattenberger's [Intro to D3](https://wattenberger.com/blog/d3) also played a key role in bringing this project to life. Not only did this resource provide a delightful overview of D3.js, but it also sparked the idea to use a circle pack for visualizing a categorical overview of bamboo construction
 
 Finally, this project would not be possible without **Dr. Bhavna Sharma**, who leads the [Innovative Materials research group](https://sites.usc.edu/innomat/) at USC. She inspired me to pursue this project and guided me along the way. Dr. Sharma is exceptionally well-versed on all things bamboo, especially in the built environment. She has contributed to countless academic papers that serve as foundational pillars of research in the field (many of which you can find in this overview). Thank you so much!
+
+</div>
+
+<style lang="scss">
+    .discussion-content {
+        background-color: var(--primary-highlighter);
+		overflow-y: scroll;
+		overflow-wrap: anywhere;
+		height: calc(90vh - 15rem);
+		padding: 1rem 2rem;
+		border-radius: 5px;
+
+		&::-webkit-scrollbar {
+			width: 7px;
+			background-color: none;
+		}
+
+		&::-webkit-scrollbar-thumb {
+			border-radius: 10px;
+			background-color: var(--primary-subtle);
+			height: 50%;
+		}
+    }
+</style>
