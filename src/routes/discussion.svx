@@ -33,6 +33,58 @@ Aside from the countless well-researched and informative articles cited througho
 
 Finally, this project would not be possible without **Dr. Bhavna Sharma**, who leads the [Innovative Materials research group](https://sites.usc.edu/innomat/) at USC. She inspired me to pursue this project and guided me along the way. Dr. Sharma is exceptionally well-versed on all things bamboo, especially in the built environment. She has contributed to countless academic papers that serve as foundational pillars of research in the field (many of which you can find in this overview). Thank you so much!
 
+## References
+
+**[1]** S. Ravishankar and S. Ji, "Exploring Two Housing Typologies in the Vernacular Architecture of Assam," _ICoRD 2021: Design for Tomorrow_, vol. 1, pp. 949-959, 2021, _Smart Innovation, Systems and Technologies_, vol. 221, [https://doi.org/10.1007/978-981-16-0041-8_78](https://doi.org/10.1007/978-981-16-0041-8_78).
+
+**[2]** S. Kaminski, "Engineered bamboo houses for low-income communities in Latin America," _The Structural Engineer_, vol. 91, no. 10, pp. 14-23, Oct 2013, [https://www.istructe.org/journal/volumes/volume-91-(2013)/issue-10/engineered-bamboo-houses-for-low-income-communitie/](<https://www.istructe.org/journal/volumes/volume-91-(2013)/issue-10/engineered-bamboo-houses-for-low-income-communitie/>).
+
+**[3]** S. Kaminski, A. Lawrence, and D. Trujillo, "Design Guide for Engineered Bahareque Housing," _International Network for Bamboo and Rattan Technical Reports_, no. 38, 2016, [https://www.inbar.int/wp-content/uploads/2020/05/1491901273.pdf](https://www.inbar.int/wp-content/uploads/2020/05/1491901273.pdf).
+
+**[4]** _Bamboo structures — Bamboo culms — Structural design_, ISO 22156:2021, Jun. 2021.
+
+**[5]** BASE Bahay Foundation, "About BASE," base-builds.com, [http://www.base-builds.com/our-houses/](http://www.base-builds.com/our-houses/).
+
+**[6]** B. Sharma, A. Gatoo, M. Bock, H. Mulligan, and M. Ramage, "Engineered bamboo: state of the art," _Construction Materials_, vol. 168, no. 2, pp. 57-67, Apr. 2015. [https://doi.org/10.1680/coma.14.00020](https://doi.org/10.1680/coma.14.00020).
+
+**[7]** H&P Architects, "Blooming Bamboo Home," hpa.vn, [https://hpa.vn/en/project/to-am-no-hoa/](https://hpa.vn/en/project/to-am-no-hoa/).
+
+**[8]** CRU! Architects, "Bamboostic project (image 14)," cru-architecten.be, [https://www.cru-architecten.be/#bamboostic-project/14](https://www.cru-architecten.be/#bamboostic-project/14).
+
+**[9]** CRU! Architects, "Bamboostic project (image 9)," cru-architecten.be, [https://www.cru-architecten.be/#bamboostic-project/9](https://www.cru-architecten.be/#bamboostic-project/9).
+
+**[10]** Ibuku, "Design Process," ibuku.com, [https://ibuku.com/about/design-process/](https://ibuku.com/about/design-process/).
+
+**[11]** Ibuku, "Sharma Springs Residence," ibuku.com, [https://ibuku.com/sharma-springs-residence/](https://ibuku.com/sharma-springs-residence/).
+
+**[12]** Ibuku, "Pemulung Housing Project," ibuku.com, [https://ibuku.com/pemulung-housing/](https://ibuku.com/pemulung-housing/).
+
+**[13]** Ibuku, "Mepantigan Auditorium at Green School," ibuku.com, [https://ibuku.com/mepantigan-auditorium/](https://ibuku.com/mepantigan-auditorium/).
+
+**[14]** R. Lorenzo and L. Mimendi, "Digitisation of bamboo culms for structural applications," _Journal of Building Engineering_, vol. 29, May 2020, [https://doi.org/10.1016/j.jobe.2020.101193](https://doi.org/10.1016/j.jobe.2020.101193).
+
+**[15]** Y. Akinbade, I. Nettleship, C. Papadopoulos, and K. A. Harries, "Modelling full-culm bamboo as a naturally varying functionally graded material," _Wood Science and Technology_, vol. 55, pp. 155-179, Jan. 2021, [https://doi.org/10.1007/s00226-020-01246-6](https://doi.org/10.1007/s00226-020-01246-6).
+
+**[16]** International Organization for Standardization, "STANDARDS," iso.org, [https://www.iso.org/standards.html](https://www.iso.org/standards.html).
+
+**[17]** _Bamboo structures — Determination of physical and mechanical properties of bamboo culms — Test methods_, ISO 22157:2019, Jan. 2019.
+
+**[18]** J. Janssen, "Designing and Building with Bamboo," _International Network for Bamboo and Rattan_, no. 20, pp. 90-116, 2000, Available: [https://www.inbar.int/wp-content/uploads/2020/05/1489455979.pdf](https://www.inbar.int/wp-content/uploads/2020/05/1489455979.pdf).
+
+**[19]** A. Widyowijatnoko and K. Harries, "20 - Joints in bamboo construction," _Nonconventional and Vernacular Construction Materials (Second Edition)_, pp. 561-596, Jan. 2020, [https://doi.org/10.1016/B978-0-08-102704-2.00020-2](https://doi.org/10.1016/B978-0-08-102704-2.00020-2).
+
+**[20]** A. Seizas, L. E. Moreira, P. Stoffel, J. Bina, J. L. M. Ripper, J. L. Ferreira, and K. Ghavami, "Analysis of a self-supporting bamboo structure with flexible joints," _International Journal of Space Structures_, vol. 36, no. 2, pp. 137-151, Mar. 2021, [https://doi.org/10.1177/09560599211001660](https://doi.org/10.1177/09560599211001660).
+
+**[21]** K. De Flander and R. Rovers, "One laminated bamboo-frame house per hectare per year," _Construction and Building Materials_, vol. 23, no. 1, pp. 210-218, 2009, [https://doi.org/10.1016/j.conbuildmat.2008.01.004](https://doi.org/10.1016/j.conbuildmat.2008.01.004).
+
+**[22]** A. Emamverdiam, Y. Ding, F. Ranaei, and Z. Ahmad, "Application of Bamboo Plants in Nine Aspects," _TheScientificWorldJournal_, vol. 2020, no. 7284203, Sep. 2020, [https://doi.org/10.1155/2020/7284203](https://doi.org/10.1155/2020/7284203).
+
+**[23]** S. Kaminski, A. Lawrence, and D. Trujillo, "Structural use of bamboo. Part 2: Durability and preservation," _The Structural Engineer_, vol. 94, no. 10, pp. 38-43, 2016, [https://www.istructe.org/journal/volumes/volume-94-(2016)/issue-10/structural-use-of-bamboo-part-2-durability-and-pr](<https://www.istructe.org/journal/volumes/volume-94-(2016)/issue-10/structural-use-of-bamboo-part-2-durability-and-pr>)
+
+**[24]** D. Aspari and O. Dewi, "Bamboo as a structural element of architectural buildings in tropical climates," _IOP Conf. Ser.: Earth Environ. Sci._, vol. 673, Jan. 2021, [https://doi.org/10.1088/1755-1315/673/1/012021](https://doi.org/10.1088/1755-1315/673/1/012021).
+
+**[25]** A. Widyowijatnoko and M. Trautz, "Tension bamboo joints for spatial structure," _IABSE-IASS 2011 Symposium, London._, 2011.
+
 </div>
 
 <style lang="scss">

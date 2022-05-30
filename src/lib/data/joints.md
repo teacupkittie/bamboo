@@ -25,6 +25,10 @@ Engineered construction joints are modern iterations of vernacular joints that a
 
 Most notably, **bolted joints** provide easy workability, high durability, and the potential for three-dimensional bamboo frames [1].
 
+Researchers and engineers are also experimenting with other jointing methods, such as "**flexible joints** in polyester ropes and locking bio-composite bandage rings" [2].
+
 ## References
 
 **[1]** A. Widyowijatnoko and K. Harries, "20 - Joints in bamboo construction," _Nonconventional and Vernacular Construction Materials (Second Edition)_, pp. 561-596, Jan. 2020, [https://doi.org/10.1016/B978-0-08-102704-2.00020-2](https://doi.org/10.1016/B978-0-08-102704-2.00020-2).
+
+**[2]** A. Seizas, L. E. Moreira, P. Stoffel, J. Bina, J. L. M. Ripper, J. L. Ferreira, and K. Ghavami, "Analysis of a self-supporting bamboo structure with flexible joints," _International Journal of Space Structures_, vol. 36, no. 2, pp. 137-151, Mar. 2021, [https://doi.org/10.1177/09560599211001660](https://doi.org/10.1177/09560599211001660).
