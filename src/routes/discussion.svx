@@ -85,6 +85,12 @@ Finally, this project would not be possible without **Dr. Bhavna Sharma**, who l
 
 **[25]** A. Widyowijatnoko and M. Trautz, "Tension bamboo joints for spatial structure," _IABSE-IASS 2011 Symposium, London._, 2011.
 
+**[26]** A. Villalon, "The Philippines: The Filipino bahay kubo, where form does not necessarily follow function," _Monuments and Sites_, vol. 5, 2002, [https://doi.org/10.11588/monstites.2002.0.22647](https://doi.org/10.11588/monstites.2002.0.22647).
+
+**[27]** Cubo Modular Inc., "Models," cubo.ph, [https://cubo.ph/pages/models](https://cubo.ph/pages/models)
+
+**[28]** R. Gavieta, "Mass housing based on traditional design and indigenous materials for passive cooling in the tropical urban climate of the Philippines," _Energy and Buildings_, vol. 16, no. 3-4, pp. 925-932, 1991, [https://doi.org/10.1016/0378-7788(91)90087-J](<https://doi.org/10.1016/0378-7788(91)90087-J>).
+
 </div>
 
 <style lang="scss">

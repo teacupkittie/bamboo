@@ -2,23 +2,12 @@
 name: Engineered methods
 ---
 
-## Te umero et
+**Engineered methods** in construction apply systematic strategies to building—standards, models, simulations, and more [1]. Compared to [vernacular construction](#vernacular-construction), these engineered methods allow for precision, scability, and added safety [2].
 
-Lorem markdownum traxit, fistula est at caelestes alium, demisso vectus in undique foret, in qui iam. Habenti saepe.
+For most conventional building materials such as steel and concrete, engineered methods are well-established and considered the default. However, **bamboo is still relatively new** to engineered construction. As a material with historic vernacular significance, bamboo's "empirical know-how" is often disregarded in modern architecture [1]. With standardized practices and a quantitative understanding of bamboo's properties, bamboo can be repositioned as **a viable "alternative structural element"** [1]. There are many ways to approach engineered bamboo methods, from [substitutive construction](#substitutive-construction) to [building with bamboo culms](#full-culm).
 
-Aper deae verum insilit Orci; est sensit tu forte. Remotis iram sidereum contenta patetis. Gaudeat nymphas convicia numina: quoque conprendere exitus, clauso. Paterque mortalia umbrae mos pedes anno cum mirabile quaecumque corpus virtus norint. Erat sed fratres carinae, est vulgata pulsant poterat nutrix.
+## References
 
-## Tubae altera arbore Iuppiter miserande mirum Aethalion
+**[1]** R. Lorenzo and L. Mimendi, "Digitisation of bamboo culms for structural applications," _Journal of Building Engineering_, vol. 29, May 2020, [https://doi.org/10.1016/j.jobe.2020.101193](https://doi.org/10.1016/j.jobe.2020.101193).
 
-Preces **fieri auribus** tollite praeterit iamque: [et robur](http://fraude.net/igne.html) fratribus manum laborum. Petitos pectus: non vinci silet _fata_, summa [illis](http://www.dum.net/), non Sole.
-
-Quod spinea inquit, rex clamorque ante. Fruges victus inter, esse minus Nesseo per caede ossa habitanda flammis satis. Vulneris pater herbis, confudit malis. Atlantiades nitenti vires videri citis auctor imago nimiumque montibus cantusque.
-
-## Ab properatis mortale percaluit denique atque
-
-Tiliae **hortos** arcadiae ignibus est Echione, quisquis iussis genitor et nomen. Legumque per Arcas magnum orat post hostiliter velata, venit unius tamen [pariter](http://nec-precanti.org/), mane canam carinae.
-
-- Sub necem morantur paulum sed longe
-- Utque maneat haec quatenus intervenit Tmolus vatibus
-- Lateri morbi moneri huius
-- Succendit terris
+**[2]** S. Kaminski, A. Lawrence, and D. Trujillo, "Design Guide for Engineered Bahareque Housing," _International Network for Bamboo and Rattan Technical Reports_, no. 38, 2016, [https://www.inbar.int/wp-content/uploads/2020/05/1491901273.pdf](https://www.inbar.int/wp-content/uploads/2020/05/1491901273.pdf) (accessed: May 23, 2022).

@@ -68,3 +68,9 @@ h4 {
 	color: var(--light);
 	text-align: center;
 }
+
+blockquote {
+	border-left: 7px solid var(--primary-subtle);
+	padding-left: 1rem;
+	margin: 1rem;
+}
