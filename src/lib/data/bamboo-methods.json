@@ -79,10 +79,6 @@
 					"src": "naga"
 				},
 				{
-					"name": "Erka house",
-					"src": "erka"
-				},
-				{
 					"name": "Assam vernacular architecture",
 					"src": "assam",
 					"children": [

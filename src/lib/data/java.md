@@ -2,23 +2,22 @@
 name: Javanese-style houses
 ---
 
-## Te umero et
+Vernacular architecture in Java varies across the island in its building size and material usage. However, most houses follow two common forms: the **Joglo** and the **Limasan**, classified by their extended sheet roofs [1].
 
-Lorem markdownum traxit, fistula est at caelestes alium, demisso vectus in undique foret, in qui iam. Habenti saepe.
+![Javanese roofs](images/javanese-roofs.jpg)
 
-Aper deae verum insilit Orci; est sensit tu forte. Remotis iram sidereum contenta patetis. Gaudeat nymphas convicia numina: quoque conprendere exitus, clauso. Paterque mortalia umbrae mos pedes anno cum mirabile quaecumque corpus virtus norint. Erat sed fratres carinae, est vulgata pulsant poterat nutrix.
+#### Primary traditional Javanese buildings, classified according to roof forms [1].
 
-## Tubae altera arbore Iuppiter miserande mirum Aethalion
+Most houses use either **brick masonry, wood, and/or bamboo**. On one hand, a brick house was a symbol of wealth and status [1]. On the other hand, families would choose wood or bamboo based on material availability. Of the provinces surveyed, **the inland region of Imogiri and the coastal region of Kulon Progo** primarily use woven bamboo walls.
 
-Preces **fieri auribus** tollite praeterit iamque: [et robur](http://fraude.net/igne.html) fratribus manum laborum. Petitos pectus: non vinci silet _fata_, summa [illis](http://www.dum.net/), non Sole.
+Java's high temperatures drive the design of vernacular homes. _Joglo_ houses in Imogiri and Kulon Progo have **front openings to encourage air circulation**, albeit no windows [1]. From a technical perspective, it was hard for them to build windows into bamboo walls compared to brick walls.
 
-Quod spinea inquit, rex clamorque ante. Fruges victus inter, esse minus Nesseo per caede ossa habitanda flammis satis. Vulneris pater herbis, confudit malis. Atlantiades nitenti vires videri citis auctor imago nimiumque montibus cantusque.
+Instead, they make the most of bamboo's permeability. **Homes are oriented toward the south** to let the southern wind breeze in [1]. Residents also take advantage of bamboo's earthquake protection, and use **permeable clay tiles** release the hot air from inside the house.
 
-## Ab properatis mortale percaluit denique atque
+![Imogiri Joglo house](images/imogiri.png)
 
-Tiliae **hortos** arcadiae ignibus est Echione, quisquis iussis genitor et nomen. Legumque per Arcas magnum orat post hostiliter velata, venit unius tamen [pariter](http://nec-precanti.org/), mane canam carinae.
+#### Imogiri inland Joglo houses [1].
 
-- Sub necem morantur paulum sed longe
-- Utque maneat haec quatenus intervenit Tmolus vatibus
-- Lateri morbi moneri huius
-- Succendit terris
+## References
+
+**[1]** N. Idham, "Javanese vernacular architecture and environmental synchronization based on the regional diversity of _Joglo_ and _Limasan_," _Frontiers of Architectural Research_, vol. 7, no. 3, pp. 317-333, Sep. 2018, [https://doi.org/10.1016/j.foar.2018.06.006](https://doi.org/10.1016/j.foar.2018.06.006).

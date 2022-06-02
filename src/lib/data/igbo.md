@@ -2,23 +2,16 @@
 name: Igbo-style house
 ---
 
-## Te umero et
+**The Igbo tribe** is found in the southeastern region of Nigeria, with houses built from mud, grass, bamboo, and raffia palms [1]. Vernacular architecture in the Igbo region prioritizes communality, so houses are often arranged in settlements with **a community space at the center** for public discussions and festivals. Igbo-style houses have several key qualities:
 
-Lorem markdownum traxit, fistula est at caelestes alium, demisso vectus in undique foret, in qui iam. Habenti saepe.
+- they are either **rectangular or circular houses**
+- they have **pitched thatch roofs and hip thatched roofs**
+- they use **clay, grass, and bamboo** to keep cool in southern Nigeria's tropical hot-humid climate
 
-Aper deae verum insilit Orci; est sensit tu forte. Remotis iram sidereum contenta patetis. Gaudeat nymphas convicia numina: quoque conprendere exitus, clauso. Paterque mortalia umbrae mos pedes anno cum mirabile quaecumque corpus virtus norint. Erat sed fratres carinae, est vulgata pulsant poterat nutrix.
+![Igbo-style rectangular house](images/igbo-house.png)
 
-## Tubae altera arbore Iuppiter miserande mirum Aethalion
+#### Example of an Igbo-style house [1].
 
-Preces **fieri auribus** tollite praeterit iamque: [et robur](http://fraude.net/igne.html) fratribus manum laborum. Petitos pectus: non vinci silet _fata_, summa [illis](http://www.dum.net/), non Sole.
+## References
 
-Quod spinea inquit, rex clamorque ante. Fruges victus inter, esse minus Nesseo per caede ossa habitanda flammis satis. Vulneris pater herbis, confudit malis. Atlantiades nitenti vires videri citis auctor imago nimiumque montibus cantusque.
-
-## Ab properatis mortale percaluit denique atque
-
-Tiliae **hortos** arcadiae ignibus est Echione, quisquis iussis genitor et nomen. Legumque per Arcas magnum orat post hostiliter velata, venit unius tamen [pariter](http://nec-precanti.org/), mane canam carinae.
-
-- Sub necem morantur paulum sed longe
-- Utque maneat haec quatenus intervenit Tmolus vatibus
-- Lateri morbi moneri huius
-- Succendit terris
+**[1]** F. Koko, "Exploring the different vernacular architecture in Nigeria," _International Journal of African Society, Cultures and Traditions_, vol. 7, no. 1, pp. 1-12, Feb. 2019, [https://www.eajournals.org/journals/international-journal-of-african-society-cultures-and-traditions-ijasct/vol-7-issue-1-february-2019/exploring-the-different-vernacular-architecture-in-nigeria/](https://www.eajournals.org/journals/international-journal-of-african-society-cultures-and-traditions-ijasct/vol-7-issue-1-february-2019/exploring-the-different-vernacular-architecture-in-nigeria/).

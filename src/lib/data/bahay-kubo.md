@@ -17,6 +17,8 @@ Bahay Kubo's cubed interior has **a single room**, housing anywhere from a marri
 
 #### Traditional Bahay Kubo house in the Philippines [1].
 
+## Bahay Kubo-inspired designs
+
 Designs for mass housing based on Bahay Kubo were developed in the 1990s, using indigenous materials such as bamboo for their **cost-efficiency** and **thermal qualities** [3]. In 2019, the company Cubo was founded, reimagining Bahay Kubo in the form of **contemporary prefabricated homes** [4]. Although Cubo homes have modernized construction practices, they still retain the characteristic cube shape.
 
 ![Cubo's 2022 Sarangani Suite](images/cubo-model.png)
@@ -31,4 +33,4 @@ Designs for mass housing based on Bahay Kubo were developed in the 1990s, using 
 
 **[3]** R. Gavieta, "Mass housing based on traditional design and indigenous materials for passive cooling in the tropical urban climate of the Philippines," _Energy and Buildings_, vol. 16, no. 3-4, pp. 925-932, 1991, [https://doi.org/10.1016/0378-7788(91)90087-J](<https://doi.org/10.1016/0378-7788(91)90087-J>).
 
-**[4]** Cubo Modular Inc., "Models," cubo.ph, [https://cubo.ph/pages/models](https://cubo.ph/pages/models)
+**[4]** Cubo Modular Inc., "Models," cubo.ph, [https://cubo.ph/pages/models](https://cubo.ph/pages/models).
