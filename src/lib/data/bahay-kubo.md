@@ -11,7 +11,7 @@ name: Bahay Kubo house
 - **a floor of bamboo slats** to conduct air into the house
 - **ceiling vents** and **permeable material** (such as bamboo mats) to allow heat to escape [3]
 
-Bahay Kubo's cubed interior has **a single room**, housing anywhere from a married couple to an extended family [2]. The single room notably influences customs in the house: families do everything together, and in the same space. Space within the Bahay Kubo is **open and multifunctional**, with cooking and dining areas during the day and sleeping mats rolled out at night.
+Bahay Kubo's cubed interior has **a single room**, housing anywhere from a married couple to an extended family [2]. The single room notably influences customs in the house: families do everything together, and in the same space. Space within the Bahay Kubo is **open and multifunctional**, with cooking and dining areas during the day and sleeping mats rolled out at night. The single-room structure also redefined privacy: in order to be "no longer present" within a space, one could simply look away and face the wall [2].
 
 ![Bahay Kubo](images/bahay-kubo.png)
 

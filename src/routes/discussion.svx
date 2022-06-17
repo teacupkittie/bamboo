@@ -4,6 +4,9 @@
 
 Summary: there's a lot of stuff out there, but most of it is pretty scattered. This project consolidates them and visualizes the relationships between different concepts surrounding bamboo residential construction.
 
+- very cool that many of the vernacular features in different cultures mirror each other -> similar solutions to similar problems
+- builders and modern engineering are drawing inspiration from vernacular/organic forms [31]
+
 ## Observations
 
 Lorem markdownum traxit, fistula est at caelestes alium, demisso vectus in undique foret, in qui iam. Habenti saepe.
@@ -94,6 +97,8 @@ Finally, this project would not be possible without **Dr. Bhavna Sharma**, who l
 **[29]** F. Koko, "Exploring the different vernacular architecture in Nigeria," _International Journal of African Society, Cultures and Traditions_, vol. 7, no. 1, pp. 1-12, Feb. 2019, [https://www.eajournals.org/journals/international-journal-of-african-society-cultures-and-traditions-ijasct/vol-7-issue-1-february-2019/exploring-the-different-vernacular-architecture-in-nigeria/](https://www.eajournals.org/journals/international-journal-of-african-society-cultures-and-traditions-ijasct/vol-7-issue-1-february-2019/exploring-the-different-vernacular-architecture-in-nigeria/).
 
 **[30]** N. Idham, "Javanese vernacular architecture and environmental synchronization based on the regional diversity of _Joglo_ and _Limasan_," _Frontiers of Architectural Research_, vol. 7, no. 3, pp. 317-333, Sep. 2018, [https://doi.org/10.1016/j.foar.2018.06.006](https://doi.org/10.1016/j.foar.2018.06.006).
+
+**[31]** M. Rashid and D. R. Ara, "Modernity in tradition: Reflections on building design and technology in the Asian vernacular", _Frontiers of Architectural Research_, vol. 4, no. 1, pp. 46-55, Mar. 2015, [https://doi.org/10.1016/j.foar.2014.11.001](https://doi.org/10.1016/j.foar.2014.11.001).
 
 </div>
 

@@ -2,23 +2,30 @@
 name: Mru house
 ---
 
-## Te umero et
+As design approaches in architecture continue to evolve, many trends turn back to vernacular design's aesthetics and ergonomics [1]. Through design principles that developed incrementally over time, Mru houses have many modernist solutions that leverage and respond to their unique area in the **Chittagong Hill Tracts** [1].
 
-Lorem markdownum traxit, fistula est at caelestes alium, demisso vectus in undique foret, in qui iam. Habenti saepe.
+**Mru houses** are characterized by their **three-dimensional stilt foundations**, propping up posts from three sides to "to counteract any lateral sliding in case of soil shifts or earthquakes." A pattern of **five pillars** in two rows is key, for several reasons [1]:
 
-Aper deae verum insilit Orci; est sensit tu forte. Remotis iram sidereum contenta patetis. Gaudeat nymphas convicia numina: quoque conprendere exitus, clauso. Paterque mortalia umbrae mos pedes anno cum mirabile quaecumque corpus virtus norint. Erat sed fratres carinae, est vulgata pulsant poterat nutrix.
+- **dividing the space** for organizing elements such as openings
+- evenly **distributing the roof load**
+- making it possible to use bamboo and smaller tree trunks
 
-## Tubae altera arbore Iuppiter miserande mirum Aethalion
+![Five-pillar construction](images/mru-five-pillar.jpg)
 
-Preces **fieri auribus** tollite praeterit iamque: [et robur](http://fraude.net/igne.html) fratribus manum laborum. Petitos pectus: non vinci silet _fata_, summa [illis](http://www.dum.net/), non Sole.
+#### 3D-modelled construction process of a five-pillar Mru house [1].
 
-Quod spinea inquit, rex clamorque ante. Fruges victus inter, esse minus Nesseo per caede ossa habitanda flammis satis. Vulneris pater herbis, confudit malis. Atlantiades nitenti vires videri citis auctor imago nimiumque montibus cantusque.
+Mru houses also have [1]:
 
-## Ab properatis mortale percaluit denique atque
+- a private bedroom area (the _kimma_) and an open multipurpose living room (the _kim-tom_)
+- a **thick, triple-layered bamboo floor** that serves as a "a flat plate system that resists the upward shearing impact of columns"
+- a part of the floor space that juts out in **a cantilever** over the steep slope side
+  - **porous slat gridwork** that reduces structural load while allowing air to flow in and moderate humidity
+- lashings and clippings for joints, which were regarded as safe and reliable
 
-Tiliae **hortos** arcadiae ignibus est Echione, quisquis iussis genitor et nomen. Legumque per Arcas magnum orat post hostiliter velata, venit unius tamen [pariter](http://nec-precanti.org/), mane canam carinae.
+![Mru lashing joints](images/mru-lashings.jpg)
 
-- Sub necem morantur paulum sed longe
-- Utque maneat haec quatenus intervenit Tmolus vatibus
-- Lateri morbi moneri huius
-- Succendit terris
+#### An example of Southeast Asian vernacular joints that use clippings [1].
+
+## References
+
+**[1]** M. Rashid and D. R. Ara, "Modernity in tradition: Reflections on building design and technology in the Asian vernacular", _Frontiers of Architectural Research_, vol. 4, no. 1, pp. 46-55, Mar. 2015, [https://doi.org/10.1016/j.foar.2014.11.001](https://doi.org/10.1016/j.foar.2014.11.001).
