@@ -75,10 +75,6 @@
 					]
 				},
 				{
-					"name": "Naga-type house",
-					"src": "naga"
-				},
-				{
 					"name": "Assam vernacular architecture",
 					"src": "assam",
 					"children": [

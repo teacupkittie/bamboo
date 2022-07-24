@@ -100,6 +100,8 @@ Finally, this project would not be possible without **Dr. Bhavna Sharma**, who l
 
 **[31]** M. Rashid and D. R. Ara, "Modernity in tradition: Reflections on building design and technology in the Asian vernacular", _Frontiers of Architectural Research_, vol. 4, no. 1, pp. 46-55, Mar. 2015, [https://doi.org/10.1016/j.foar.2014.11.001](https://doi.org/10.1016/j.foar.2014.11.001).
 
+**[32]** T. Pelmoine and A. Mayor, "Vernacular architecture in eastern Senegal: _Chaînes opératoires_ and technical choices," _Journal of Material Culture_, vol. 25, no. 3, pp. 348-378, Apr. 2020, [https://doi.org/10.1177/1359183520907929](https://doi.org/10.1177/1359183520907929).
+
 </div>
 
 <style lang="scss">
