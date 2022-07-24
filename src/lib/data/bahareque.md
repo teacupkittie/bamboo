@@ -12,20 +12,7 @@ name: Bahareque
 
 Natural disasters and poor political policies have left Latin Americans with **a severe housing deficit**, estimated in 2013 to be a shortage of at least 42 million homes [1]. Latin America is vulnerable to earthquakes, volcanoes, flooding, hurricanes, and high rainfall—ultimately **an aggressive climate and seismic region**.
 
-## Structural features
-
-Bahareque has several key components [2]:
-
-- a **frame** made from either timber or full culm bamboo
-- a **wall matrix** made from split bamboo (_reglilla_), woven twigs, opened bamboo (_esterilla_), cane, or small-diameter bamboo [1]
-  - steel mesh and barbed wire is sometimes fixed to the frame [1]
-- a **wall render** made from manure or mud, sometimes with added straw or a limestone finish
-- an **upstand** made from rock or brick to reduce rotting from dampness
-- a **roof** historically made from palm fronds, later from clay tiles after the Spanish invasion, and now sometimes corrugated iron sheets [1]
-
-![Bahareque diagram](images/bahareque-diagram.png)
-
-#### Diagram of traditional bahareque [2].
+## Durability
 
 In seismic regions, **structural unity and flexibility** are key to the durability of the house. Bahareque houses that are properly constructed and maintained can be very durable, but variability in workmanship can introduce weaknesses.
 
