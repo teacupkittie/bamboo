@@ -53,7 +53,7 @@
 	<div class="footer">
 		{#if $page.url.pathname === '/'}
 			<div class="easter-egg" />
-			<NavButton align="right" text="EXPLORE" href="/explore" />
+			<div class="easter-egg" />
 		{:else if $page.url.pathname === '/explore'}
 			<NavButton align="left" text="INTRODUCTION" href="/" />
 			<NavButton align="right" text="DISCUSSION" href="/discussion" />

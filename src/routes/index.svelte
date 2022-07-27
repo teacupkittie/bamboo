@@ -1,4 +1,5 @@
 <script>
+	import NavButton from '$lib/components/NavButton.svelte';
 </script>
 
 <!-- Title page! -->
@@ -18,6 +19,7 @@
 			strength. How is bamboo currently being used in the built environment, and how can it flourish
 			in the future?
 		</p>
+		<div class="explore"><NavButton align="right" text="EXPLORE" href="/explore" /></div>
 	</div>
 </div>
 
@@ -32,7 +34,7 @@
 		padding-top: 1rem;
 	}
 	.byline {
-		padding: 1rem 0;
+		padding-top: 1rem;
 	}
 	.content-wrapper {
 		display: flex;
@@ -43,5 +45,9 @@
 	.content {
 		text-align: center;
 		width: max(50rem, 40vw);
+	}
+	.explore {
+		width: min-content;
+		margin: auto;
 	}
 </style>

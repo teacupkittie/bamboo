@@ -39,7 +39,7 @@
 		}
 	}
 	:global(.icon) {
-		color: var(--light);
+		color: var(--mid);
 		align-self: center;
 		grid-row-start: 1;
 	}
