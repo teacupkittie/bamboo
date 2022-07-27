@@ -2,37 +2,41 @@
 
 <div class="discussion-content">
 
-Summary: there's a lot of stuff out there, but most of it is pretty scattered. This project consolidates them and visualizes the relationships between different concepts surrounding bamboo residential construction.
+This interactive visualization aims to highlight various concepts that have been explored within **bamboo residential construction**, as well as **how these concepts relate to each other**. While consolidating existing research on these construction techniques, the process itself proved the need for such a project.
 
-- very cool that many of the vernacular features in different cultures mirror each other -> similar solutions to similar problems
-- builders and modern engineering are drawing inspiration from vernacular/organic forms [31]
+Research on bamboo's structural applications has only picked up speed in the last few decades, and these new findings are still relatively disorganized. As this visualization was developed, concepts were rearranged, renamed, and recategorized as their relationships grew clearer. The bulk of effort lay in defining the **scope of research**, **collecting relevant sources**, and—most of all—**distilling sources into their key takeaways**.
+
+Finally, these connections have not yet been drawn anywhere else. Although it is a field with great potential to pivot residential housing toward sustainability, **an accessible beginner's guide to bamboo construction is still the first of its kind**. Ideally, this resource will direct attention toward more efforts that bring bamboo research and its applications to a wider audience.
 
 ## Observations
 
-Lorem markdownum traxit, fistula est at caelestes alium, demisso vectus in undique foret, in qui iam. Habenti saepe.
+Design forms are trending in diverging paths, to become **both more eccentric and more standardized**. On the one hand, vernacular and organic forms are a part of a newfound wave of popularity, as modern engineering draws inspiration from their ergonomic fluidity [31]. Ibuku is one such example, embedding their structures in nature with wide arches and non-geometric motifs [11-13]. Moreover, newer parametric and generative designs tend to yield more natural-looking curves and connections. These design forms lean into bamboo's uniqueness. On the other hand, engineered products (such as laminated bamboo and bamboo scrimber) and modular housing systems push bamboo structures to match a modern, minimalistic look [6, 27].
 
-Aper deae verum insilit Orci; est sensit tu forte. Remotis iram sidereum contenta patetis. Gaudeat nymphas convicia numina: quoque conprendere exitus, clauso. Paterque mortalia umbrae mos pedes anno cum mirabile quaecumque corpus virtus norint. Erat sed fratres carinae, est vulgata pulsant poterat nutrix.
+Bamboo housing is also notable for its rich development over time. Even if they arose in different cultures, **many vernacular features mirrored each other** if they were built in similar climates. Houses in areas that flooded, such as Bahay Kubo and Chang Ghar houses, raised their foundations to prevent bamboo decay [1, 26]. In areas where heat was an issue, Bahay Kubo and Mru houses had bamboo slat floors for air circulation [26, 31]. Across most examples, openings, vents, and permeable materials were essential [26, 28, 30]. Where there was high seismic activity, Assam-type houses and Mru houses divided frames into smaller sections to distribute an earthquake's shear forces [1, 31]. Although the techniques evolved independently, these groups took similar solutions to similar problems.
 
 ## Criticism
 
-Preces **fieri auribus** tollite praeterit iamque: [et robur](http://fraude.net/igne.html) fratribus manum laborum. Petitos pectus: non vinci silet _fata_, summa [illis](http://www.dum.net/), non Sole.
+Bamboo's most important technical challenge is its integration with modern engineering practices, which has been discussed throughout the visualization. On the other hand, one of bamboo's most important (and least technical) setbacks lies in the **historical perceptions of bamboo** as a building material. As a result of unfounded but widespread beliefs in many cultures, bamboo houses are considered to signal a lack of wealth, often placing a "stigma on the family" [18]. In some cases, families will even plaster their bamboo houses to imitate the look of concrete, or paint them to imitate the look of brick [18, 21]. It is not unlikely that this stigma is driven by Western industrialization and imperialism, confusing modernity with excessive consumption.
 
-Quod spinea inquit, rex clamorque ante. Fruges victus inter, esse minus Nesseo per caede ossa habitanda flammis satis. Vulneris pater herbis, confudit malis. Atlantiades nitenti vires videri citis auctor imago nimiumque montibus cantusque.
+It is imperative that bamboo is detached from its historically prescribed identity. Spreading information about bamboo's value and sustainable qualities is a key solution to countering this stigma. Additionally, newer building projects are using aesthetics to shift the impression of bamboo, from Ibuku's extravagantly artistic structures to Cubo's sleek and modern look [11-13, 27].
 
-## Innovation and future development
+Some sources push for primarily using laminated bamboo, hence detaching the image of bamboo from its natural form. Meanwhile, others believe that creating acceptance for full culm bamboo should be the ultimate goal, especially because the environmental advantage of building with a less processed product is well worth it.
 
-Tiliae **hortos** arcadiae ignibus est Echione, quisquis iussis genitor et nomen. Legumque per Arcas magnum orat post hostiliter velata, venit unius tamen [pariter](http://nec-precanti.org/), mane canam carinae.
+## Limitations
 
-- Sub necem morantur paulum sed longe
-- Utque maneat haec quatenus intervenit Tmolus vatibus
-- Lateri morbi moneri huius
-- Succendit terris
+Due to the time-constrained nature of this project, many relevant concepts were not explored to a thorough extent. These include (but are not limited to) the varieties of bamboo across the globe and their intricacies, smaller components that compose building projects, design philosophies, and more.
+
+The scope of this project was also **limited to residential construction**. Commercial construction, bridge construction, and other verticals each have their unique challenges that make for notable discussion.
+
+In the future, it would be interesting to dissect the history of wattle and daub's widespread popularity—how it either traveled from one culture to another, or how it developed independently and later intersected. In a similar vein, there are countless vernacular practices and historical case studies that were not represented. This is in part due to the sheer number of these methods, and in part because vernacular methods are often not explored meticulously in research. Third, future research could dive deeper into collating information about the social factors and impacts adjacent to building with bamboo.
+
+In coming years, it will also be useful to follow the many **innovations and developments** within bamboo construction, especially in jointing, durability, engineering standards, and social perception.
 
 ## Resources
 
-If you are curious about how I made this visualization, check out the blog post that I wrote about my progress (coming soon)! I'll cover everything from the research and literature review to how I used SvelteKit and D3.
+If you are curious about how I made this visualization, I'll be publishing a blog post about my progress soon! I'll cover everything from the research and literature review to how I used SvelteKit and D3.
 
-Aside from the countless well-researched and informative articles cited throughout the visualization, Amelia Wattenberger's [Intro to D3](https://wattenberger.com/blog/d3) also played a key role in bringing this project to life. Not only did this resource provide a delightful overview of D3.js, but it also sparked the idea to use a circle pack for visualizing a categorical overview of bamboo construction
+Aside from the countless well-researched and informative articles cited throughout the visualization, **Amelia Wattenberger's** [Intro to D3](https://wattenberger.com/blog/d3) also played a key role in bringing this project to life. Not only did this resource provide a delightful overview of D3.js, but it also sparked the idea to use a circle pack for visualizing a categorical overview of bamboo construction
 
 Finally, this project would not be possible without **Dr. Bhavna Sharma**, who leads the [Innovative Materials research group](https://sites.usc.edu/innomat/) at USC. She inspired me to pursue this project and guided me along the way. Dr. Sharma is exceptionally well-versed on all things bamboo, especially in the built environment. She has contributed to countless academic papers that serve as foundational pillars of research in the field (many of which you can find in this overview). Thank you so much!
 
