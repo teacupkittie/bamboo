@@ -117,12 +117,12 @@ Material in the North-East and Southern Vernacular Settlements of India," _Inter
 
 <style lang="scss">
     .discussion-content {
-        background-color: var(--primary-highlighter);
-		overflow-y: scroll;
-		overflow-wrap: anywhere;
-		height: calc(90vh - 15rem);
-		padding: 1rem 2rem;
-		border-radius: 5px;
+			background-color: var(--primary-highlighter);
+			overflow-y: scroll;
+			overflow-wrap: anywhere;
+			height: calc(90vh - 15rem);
+			padding: 1em 2rem;
+			border-radius: 5px;
 
 		&::-webkit-scrollbar {
 			width: 7px;

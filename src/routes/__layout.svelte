@@ -10,8 +10,8 @@
 <script>
 	import '../app.scss';
 	import NavButton from '$lib/components/NavButton.svelte';
-	import { page } from '$app/stores';
 
+	import { page } from '$app/stores';
 	import PageTransition from '$lib/components/PageTransition.svelte';
 
 	export let key;
@@ -29,7 +29,7 @@
 	<meta property="og:type" content="article" />
 	<meta
 		property="og:description"
-		content="The call for sustainable and affordable housing is clear—people across the globe are witnessing a shortage of homes. How is bamboo currently being used in the built environment, and how can it flourish in the future?"
+		content="A visual literary review of bamboo residential construction."
 	/>
 </svelte:head>
 
@@ -88,7 +88,7 @@
 	}
 
 	.discussion-container {
-		padding: 5vh 10rem;
+		padding: 5vh max(10rem, calc(50vw - 30rem));
 	}
 	.explore-container {
 		padding: 5vh 10vw;
