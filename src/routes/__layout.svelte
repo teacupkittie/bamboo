@@ -27,10 +27,15 @@
 	<title>Bamboo housing</title>
 	<meta property="og:title" content="Bamboo housing" />
 	<meta property="og:type" content="article" />
-	<meta
-		property="og:description"
-		content="A visual literary review of bamboo residential construction."
-	/>
+	<meta property="og:description" content="A visual literary review of bamboo residential construction." />
+	<meta property="og:image" content="https://bamboo.vivianwli.com/images/preview.png" />
+	<meta property="og:image:type" content="image/png" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Bamboo housing" />
+	<meta name="twitter:description" content="A visual literary review of bamboo residential construction." />
+	<meta name="twitter:image" content="https://bamboo.vivianwli.com/images/preview.png" />
 </svelte:head>
 
 <div class="mobile">
@@ -82,6 +87,9 @@
 		}
 		.mobile {
 			display: block !important;
+		}
+		.background {
+			display: none !important;
 		}
 	}
 
