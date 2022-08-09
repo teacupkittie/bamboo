@@ -27,10 +27,12 @@
 		margin: 1rem 0 0 0;
 		line-height: 6rem;
 	}
+
 	.subtitle {
 		font-size: 1.5rem;
 		padding-top: 1rem;
 	}
+
 	.byline {
 		padding-top: 1rem;
 	}
@@ -38,14 +40,39 @@
 		display: flex;
 		height: calc(100vh - 5rem);
 		justify-content: center;
-		align-items: center;
 	}
 	.content {
 		text-align: center;
 		width: max(48rem, 40vw);
+		margin: auto 0;
 	}
 	.explore {
 		width: min-content;
 		margin: auto;
 	}
+	
+	@media only screen and (max-width: 52rem) {
+		.title {
+			font-size: 3.75rem;
+			line-height: 4.5rem;
+		}
+		.subtitle {
+			font-size: 1.1rem;
+			padding-top: 1rem;
+		}
+		.content {
+			margin: auto 3rem;
+		}
+	}
+
+	@media only screen and (max-width: 36rem) {
+		.content {
+			margin: 12rem 2rem 5rem 2rem;
+		}
+		.content-wrapper {
+			height: 100%;
+		}
+	}
+
+
 </style>

@@ -7,7 +7,6 @@
 	background-color: var(--bg-color);
 	line-height: 1.5;
 	transition: 0.5s ease;
-	overflow-y: hidden;
 
 	/* greys palette */
 	--lightest: #f6f6f6;
@@ -32,6 +31,21 @@
 	--active: #ba9d85;
 	--active-light: #e7d3c3;
 	--active-highlight: rgba(215, 203, 195, 0.3);
+}
+
+body {
+	overflow: hidden;
+}
+
+body * {
+	overflow: hidden;
+}
+
+@media only screen and (max-width: 52rem) {
+	body {
+		overflow-y: scroll;
+		margin: 0;
+	}
 }
 
 h1 {

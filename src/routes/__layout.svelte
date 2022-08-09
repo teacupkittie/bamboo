@@ -38,13 +38,13 @@
 	<meta name="twitter:image" content="https://bamboo.vivianwli.com/images/preview.png" />
 </svelte:head>
 
-<div class="mobile">
+<!-- <div class="mobile">
 	<h1>Hey, mobile user!</h1>
 	<p>
 		This project has yet to be implemented for smaller screens. In the meantime, please visit this
 		page on a computer!
 	</p>
-</div>
+</div> -->
 
 <div class="outer-container">
 	<a class="label" href="/">BAMBOO HOUSING</a>
@@ -79,23 +79,6 @@
 <style lang="scss">
 	.label {
 		text-decoration: none;
-	}
-
-	@media screen and (max-width: 1000px) {
-		.outer-container {
-			display: none;
-		}
-		.mobile {
-			display: block !important;
-		}
-		.background {
-			display: none !important;
-		}
-	}
-
-	.mobile {
-		display: none;
-		padding: 2rem;
 	}
 
 	.outer-container {
@@ -145,5 +128,28 @@
 		grid-row: 1;
 		padding-top: 1rem;
 		width: min(100%, 30rem);
+	}
+
+	@media only screen and (max-width: 64rem) {
+		.background {
+			display: none !important;
+		}
+	}
+	
+	@media only screen and (max-width: 36rem) {
+		.background {
+			display: block !important;
+			position: absolute;
+		}
+		.background-left {
+			display: none;
+		}
+		.background-right {
+			position: absolute;
+			top: 1rem;
+			right: -1rem;
+			height: 16rem;
+			width: min-content;
+		}
 	}
 </style>
