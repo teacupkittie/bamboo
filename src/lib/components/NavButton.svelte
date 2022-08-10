@@ -24,7 +24,7 @@
 <style lang="scss">
 	.button {
 		display: grid;
-		gap: 0.5rem;
+		gap: 0.4rem;
 	}
 	.left {
 		grid-template-columns: min-content min-content;
@@ -36,6 +36,9 @@
 		grid-template-columns: min-content min-content;
 		:global(.icon) {
 			grid-column-start: 2;
+		}
+		.label {
+			padding-left: 0.1rem;
 		}
 	}
 	:global(.icon) {

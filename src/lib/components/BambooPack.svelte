@@ -218,4 +218,35 @@
 	.hidden-tooltip {
 		display: none;
 	}
+
+	@media only screen and (max-width: 62rem) {
+		// .description {
+		// 	display: none !important;
+		// }
+		.viz-container {
+			grid-template-columns: 1fr;
+			grid-template-rows: min-content 1fr;
+			justify-content: center;
+			padding-bottom: 5rem;
+		}
+		svg {
+			justify-self: center;
+			grid-row: 1;
+		}
+		.parent-circle {
+			stroke-width: 0.42rem;
+		}
+		.description {
+			padding: 0 1.5rem 0rem 1.5rem;
+			height: 100vh;
+			.content {
+				margin-right: 0;
+			}
+			h1 {
+				text-align: center;
+				margin: 0.75rem 0;
+				font-size: 2.5rem;
+			}
+		}
+	}
 </style>

@@ -21,6 +21,8 @@
 		setTimeout(() => {
 			padding = $page.url.pathname.substring(1);
 		}, 600);
+
+	$: screenWidth = 0;
 </script>
 
 <svelte:head>
@@ -38,13 +40,7 @@
 	<meta name="twitter:image" content="https://bamboo.vivianwli.com/images/preview.png" />
 </svelte:head>
 
-<!-- <div class="mobile">
-	<h1>Hey, mobile user!</h1>
-	<p>
-		This project has yet to be implemented for smaller screens. In the meantime, please visit this
-		page on a computer!
-	</p>
-</div> -->
+<svelte:window bind:outerWidth={screenWidth}/>
 
 <div class="outer-container">
 	<a class="label" href="/">BAMBOO HOUSING</a>
@@ -60,7 +56,11 @@
 			<div class="easter-egg" />
 			<div class="easter-egg" />
 		{:else if $page.url.pathname === '/explore'}
+			{#if screenWidth > 768}
 			<NavButton align="left" text="INTRODUCTION" href="/" />
+			{:else}
+			<NavButton align="left" text="INTRO" href="/" />
+			{/if}
 			<NavButton align="right" text="DISCUSSION" href="/discussion" />
 		{:else if $page.url.pathname === '/discussion'}
 			<NavButton align="left" text="EXPLORE" href="/explore" />
@@ -134,9 +134,16 @@
 		.background {
 			display: none !important;
 		}
+		.footer {
+			position: relative;
+			padding: 0.5rem;
+		}
 	}
 	
 	@media only screen and (max-width: 36rem) {
+		.label {
+			padding-left: 0.5rem;
+		}
 		.background {
 			display: block !important;
 			position: absolute;
@@ -150,6 +157,13 @@
 			right: -1rem;
 			height: 16rem;
 			width: min-content;
+		}
+		.explore-container {
+			padding: 5vh 0;
+			height: auto;
+		}
+		.discussion-container {
+			padding: 5vh 1.5rem;
 		}
 	}
 </style>

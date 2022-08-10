@@ -116,7 +116,7 @@ Material in the North-East and Southern Vernacular Settlements of India," _Inter
 </div>
 
 <style lang="scss">
-    .discussion-content {
+  .discussion-content {
 			background-color: var(--primary-highlighter);
 			overflow-y: scroll;
 			overflow-wrap: anywhere;
@@ -134,5 +134,14 @@ Material in the North-East and Southern Vernacular Settlements of India," _Inter
 			background-color: var(--primary-subtle);
 			height: 50%;
 		}
-    }
+  }
+	@media only screen and (max-width: 36rem) {
+		.discussion-content {
+			height: 75vh;
+		}
+		h1 {
+			font-size: 2.75rem;
+			margin-top: 1rem;
+		}
+	}
 </style>

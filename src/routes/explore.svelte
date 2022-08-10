@@ -43,4 +43,11 @@
 	.chart-wrapper {
 		height: min(50vw, 80vh);
 	}
+	@media only screen and (max-width: 62rem) {
+		.chart-wrapper {
+			height: min(87.5vw, 75vh);
+			margin-bottom: 100vh;
+			overflow-y: visible;
+		}
+	}
 </style>
